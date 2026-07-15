@@ -28,7 +28,7 @@ jobs:
       - name: Commit and Push Updates
         run: |
           git config --global user.name "Ramim Talukder"
-          git config --global user.email "ramim@users.noreply.github.com"
+          git config --global user.email "ramimtalukder1@gmail.com"
           git add master.m3u8 death.m3u8 dead_tracker.json
           git diff-index --quiet HEAD || git commit -m "RAMIM Engine Midnight Auto-Refreshed [$(date)]"
           git push
