@@ -23,7 +23,6 @@ TRACKER_FILE = "dead_tracker.json"
 def test_stream_speed(channel):
     url = channel['url']
     
-    # সাজেশন ১: ইউটিউব/গুগল ভিডিও লিঙ্ক ডিটেকশন
     if "googlevideo.com" in url or "youtube.com" in url or "youtu.be" in url:
         channel['latency'] = 0.1
         return channel, True
@@ -36,7 +35,8 @@ def test_stream_speed(channel):
     
     start_time = time.time()
     try:
-        response = requests.get(url, headers=headers, stream=True, timeout=(2.0, 3.5), verify=False)
+        # ⚡ গতি বাড়ানোর জন্য কানেক্ট ১.০ সেকেন্ড এবং টোটাল ১.২ সেকেন্ড টাইমআউট করা হলো
+        response = requests.get(url, headers=headers, stream=True, timeout=(1.0, 1.2), verify=False)
         if response.status_code in [200, 206]:
             content_type = response.headers.get('Content-Type', '').lower()
             if 'text/html' not in content_type:
@@ -100,21 +100,30 @@ def main():
     raw_channels = []
     for src in sources:
         try:
-            # 🛡️ ফিক্স: সোর্স ফাইল ডাউন বা স্লো থাকলে যেন স্ক্রিপ্ট হ্যাং না হয় (Connect 3s, Read 5s Timeout)
-            res = requests.get(src, timeout=(3.0, 5.0), verify=False, headers={'User-Agent': USER_AGENTS[0]})
+            res = requests.get(src, timeout=(2.0, 4.0), verify=False, headers={'User-Agent': USER_AGENTS[0]})
             if res.status_code == 200:
                 raw_channels.extend(parse_m3u_content(res.text))
         except Exception as e:
             print(f"⚠️ Error fetching source: {e}")
 
+    # ডুপ্লিকেট ইউআরএল প্রথম ধাপেই ফিল্টার করে পুল ছোট করা হচ্ছে
+    seen_urls = set()
+    unique_raw_channels = []
+    for ch in raw_channels:
+        if ch['url'] not in seen_urls:
+            seen_urls.add(ch['url'])
+            unique_raw_channels.append(ch)
+
     death_channels = load_local_m3u(DEATH_FILE)
-    total_pool = raw_channels + death_channels
+    total_pool = unique_raw_channels + death_channels
     
     live_list = []
     dead_list = []
     
-    print(f"⏳ মোট {len(total_pool)}টি লিঙ্ক টেস্ট করা হচ্ছে...")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=150) as executor:
+    print(f"⏳ মোট {len(total_pool)}টি ইউনিক লিঙ্ক টেস্ট করা হচ্ছে...")
+    
+    # ⚡ থ্রেড সংখ্যা বাড়িয়ে ৩০০ করা হলো দ্রুত প্রসেস করার জন্য
+    with concurrent.futures.ThreadPoolExecutor(max_workers=300) as executor:
         results = executor.map(test_stream_speed, total_pool)
         for channel, is_live in results:
             if is_live:
@@ -128,7 +137,6 @@ def main():
         if name_clean not in best_channels or ch['latency'] < best_channels[name_clean]['latency']:
             best_channels[name_clean] = ch
 
-    # সাজেশন ২: ৭২ ঘণ্টা ট্র্যাশ ক্লিনিং
     tracker = load_tracker()
     updated_tracker = {}
     final_dead_list = []
@@ -151,7 +159,7 @@ def main():
             updated_tracker[url] = first_dead_time
             final_dead_list.append(ch)
         else:
-            print(f"🗑️ 72 Hours Exceeded! Permanently Removed: {ch['name']}")
+            pass # ৭২ ঘণ্টা পার হলে ট্র্যাশ ক্যান থেকে বাদ
 
     save_tracker(updated_tracker)
 
