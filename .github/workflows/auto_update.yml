@@ -2,8 +2,8 @@ name: Ramim IPTV Self-Healing Engine
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # ঠিক প্রতি ১ ঘণ্টা পর পর স্বয়ংক্রিয়ভাবে চলবে
-  workflow_dispatch: # এটি রাখার ফলে আপনি চাইলে যেকোনো সময় ম্যানুয়ালিও রান করতে পারবেন
+    - cron: '0 18 * * *' # বাংলাদেশ সময় ঠিক রাত ১২:০০ টায় (18:00 UTC) রান হবে
+  workflow_dispatch: # এটি থাকার কারণে আপনি চাইলে যেকোনো সময় ম্যানুয়ালিও রান করতে পারবেন
 
 jobs:
   build-and-sync:
@@ -22,7 +22,6 @@ jobs:
 
       - name: Execute Ramim Engine
         env:
-          # গিটহাব সিক্রেটস থেকে লুকিয়ে রাখা সোর্স লিঙ্কগুলো পাইথনে পাঠানো হচ্ছে
           IPTV_SOURCES: ${{ secrets.IPTV_SOURCES }}
         run: python updater.py
 
@@ -31,6 +30,5 @@ jobs:
           git config --global user.name "Ramim Talukder"
           git config --global user.email "ramim@users.noreply.github.com"
           git add master.m3u8 death.m3u8 dead_tracker.json
-          # যদি ফাইলে নতুন কোনো আপডেট না থাকে, তবে জোর করে পুশ করে টিভি বাফারিং করাবে না
-          git diff-index --quiet HEAD || git commit -m "RAMIM Engine Auto-Refreshed [$(date)]"
+          git diff-index --quiet HEAD || git commit -m "RAMIM Engine Midnight Auto-Refreshed [$(date)]"
           git push
