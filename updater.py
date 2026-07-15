@@ -23,10 +23,9 @@ TRACKER_FILE = "dead_tracker.json"
 def test_stream_speed(channel):
     url = channel['url']
     
-    # ⭐ সাজেশন ১: ইউটিউব/গুগল ভিডিও লিঙ্ক ডিটেকশন লজিক
-    # এই লিঙ্কগুলো সার্ভার ডাউন হয় না, তাই টিভিতে ডিসকানেক্ট রোধ করতে সরাসরি লাইভ পাস করা হলো
+    # সাজেশন ১: ইউটিউব/গুগল ভিডিও লিঙ্ক ডিটেকশন
     if "googlevideo.com" in url or "youtube.com" in url or "youtu.be" in url:
-        channel['latency'] = 0.1  # সুপার ফাস্ট ল্যাটেন্সি অ্যাসাইন
+        channel['latency'] = 0.1
         return channel, True
 
     headers = {
@@ -101,7 +100,8 @@ def main():
     raw_channels = []
     for src in sources:
         try:
-            res = requests.get(src, timeout=10, verify=False, headers={'User-Agent': USER_AGENTS[0]})
+            # 🛡️ ফিক্স: সোর্স ফাইল ডাউন বা স্লো থাকলে যেন স্ক্রিপ্ট হ্যাং না হয় (Connect 3s, Read 5s Timeout)
+            res = requests.get(src, timeout=(3.0, 5.0), verify=False, headers={'User-Agent': USER_AGENTS[0]})
             if res.status_code == 200:
                 raw_channels.extend(parse_m3u_content(res.text))
         except Exception as e:
@@ -128,7 +128,7 @@ def main():
         if name_clean not in best_channels or ch['latency'] < best_channels[name_clean]['latency']:
             best_channels[name_clean] = ch
 
-    # ⭐ সাজেশন ২: ৭২ ঘণ্টা ট্র্যাশ ক্লিনিং লজিক (Dead Tracker Control)
+    # সাজেশন ২: ৭২ ঘণ্টা ট্র্যাশ ক্লিনিং
     tracker = load_tracker()
     updated_tracker = {}
     final_dead_list = []
@@ -140,17 +140,14 @@ def main():
             continue
         seen_dead_urls.add(url)
         
-        # যদি লিঙ্কটি আগে থেকেই ডেড ট্র্যাকার-এ না থাকে, তবে বর্তমান টাইমস্ট্যাম্প বসবে
         if url not in tracker:
             first_dead_time = now.timestamp()
         else:
             first_dead_time = tracker[url]
             
-        # হিসাব করা হচ্ছে কত ঘণ্টা ধরে ডেড আছে
         hours_dead = (now.timestamp() - first_dead_time) / 3600
         
         if hours_dead <= 72:
-            # ৭২ ঘণ্টার কম হলে ট্র্যাশে থাকবে এবং ট্র্যাকার ফাইল রি-রাইট হবে
             updated_tracker[url] = first_dead_time
             final_dead_list.append(ch)
         else:
