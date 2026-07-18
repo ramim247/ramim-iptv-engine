@@ -1,193 +1,180 @@
 import os
 import re
 import time
-import json
-import requests
 import concurrent.futures
-from datetime import datetime, timezone, timedelta
-import urllib3
+import requests
+import json
+from urllib3.util import Retry
+from requests.adapters import HTTPAdapter
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+# ==========================================
+# CONFIGURATION & CONSTANTS
+# ==========================================
+TIMEOUT_CONNECT = 3
+TIMEOUT_READ = 5
+MAX_WORKERS = 100
 
-USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15',
-    'VLC/3.0.18 LibVLC/3.0.18',
-    'Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36'
+# ফিচার ২: নাম ক্লিনআপের জন্য রেগুলার এক্সপ্রেশন রুলস
+CLEANUP_PATTERNS = [
+    r'(?i)\.tv', r'(?i)\.hd', r'(?i)\.sd', r'(?i)\.fhd', r'(?i)\.4k',
+    r'(?i)\[live\]', r'(?i)live', r'(?i)fhd', r'(?i)shd', r'(?i)fhd',
+    r'[\s_.-]+hd\b', r'[\s_.-]+sd\b', r'[\s_.-]+fhd\b',
+    r'[_\.-]', r'\s+'
 ]
 
-MASTER_FILE = "master.m3u8"
-DEATH_FILE = "death.m3u8"
-TRACKER_FILE = "dead_tracker.json"
+# ফিচার ১: স্মার্ট ক্যাটাগরি ম্যাপিং কী-ওয়ার্ড
+CATEGORY_MAP = {
+    'Sports': ['sports', 'sport', 'cricket', 'football', 't20', 'sony', 'star sports', 'ten', 'bein', 'willow', 'supersport', 'wwe', 'ufc', 'eurovision', 'racing', 'golf'],
+    'News': ['news', 'khabor', 'somoy', 'jamuna', 'ekattor', 'independent', '24', 'atn', 'bbc', 'cnn', 'al jazeera', 'reuters', 'sky news'],
+    'Movies': ['movies', 'movie', 'cinema', 'bioscope', 'hbo', 'action', 'star gold', 'zee cinema', 'sony max', 'cine', 'wb', 'pixels'],
+    'Entertainment': ['entertainment', 'zee', 'star', 'colors', 'sony sab', 'tv', 'baber', 'bangla', 'chittagong', 'dhaka', 'itv', 'channel', 'gazi', 'gtv', 'maasranga', 'ntv', 'rttv', 'deepto'],
+    'Music': ['music', 'gaan', 'sangeet', 'mtv', 'b4u', 'zoom', 'v h1', 'channel i', 't-series'],
+    'Kids': ['kids', 'cartoon', 'disney', 'nick', 'pogo', 'hungama', 'sonic']
+}
 
-def test_stream_speed(channel):
-    url = channel['url']
-    
-    if "googlevideo.com" in url or "youtube.com" in url or "youtu.be" in url:
-        channel['latency'] = 0.1
-        return channel, True
+def clean_channel_name(name):
+    """ফিচার ২: চ্যানেলের নাম থেকে ডট, ইমোজি ও অপ্রয়োজনীয় ট্যাগ পরিষ্কার করে ফ্রেশ নাম তৈরি করে।"""
+    cleaned = name.strip()
+    for pattern in CLEANUP_PATTERNS:
+        if pattern == r'\s+':
+            cleaned = re.sub(pattern, ' ', cleaned)
+        else:
+            cleaned = re.sub(pattern, '', cleaned)
+    return cleaned.strip().title()
 
-    headers = {
-        'User-Agent': USER_AGENTS[int(time.time()) % len(USER_AGENTS)],
-        'Accept': '*/*',
-        'Referer': 'https://www.google.com/'
-    }
+def auto_assign_category(name):
+    """ফিচার ১: নাম স্ক্যান করে স্বয়ংক্রিয়ভাবে সঠিক ক্যাটাগরি সিলেক্ট করে।"""
+    name_lower = name.lower()
+    for category, keywords in CATEGORY_MAP.items():
+        if any(keyword in name_lower for keyword in keywords):
+            return category
+    return "Other"
+
+def test_single_url(channel_info):
+    """ফিচার ৭: লিঙ্কের রেসপন্স স্পিড (ল্যাটেন্সি) নিখুঁতভাবে পরিমাপ করে।"""
+    name, url = channel_info
+    session = requests.Session()
+    retries = Retry(total=1, backoff_factor=0.1, status_forcelist=[500, 502, 503, 504])
+    session.mount('http://', HTTPAdapter(max_retries=retries))
+    session.mount('https://', HTTPAdapter(max_retries=retries))
     
     start_time = time.time()
     try:
-        # ⚡ গতি বাড়ানোর জন্য কানেক্ট ১.০ সেকেন্ড এবং টোটাল ১.২ সেকেন্ড টাইমআউট করা হলো
-        response = requests.get(url, headers=headers, stream=True, timeout=(1.0, 1.2), verify=False)
-        if response.status_code in [200, 206]:
-            content_type = response.headers.get('Content-Type', '').lower()
-            if 'text/html' not in content_type:
-                for _ in response.iter_content(chunk_size=512):
-                    break
-                channel['latency'] = time.time() - start_time
-                response.close()
-                return channel, True
-        if response: response.close()
+        response = session.head(url, timeout=(TIMEOUT_CONNECT, TIMEOUT_READ), allow_redirects=True)
+        if response.status_code == 200:
+            latency = time.time() - start_time
+            return {"name": name, "url": url, "status": "alive", "latency": latency}
     except Exception:
-        pass
-    return channel, False
-
-def parse_m3u_content(content):
-    lines = content.replace('\r\n', '\n').split('\n')
-    channels = []
-    current = {}
-    
-    for line in lines:
-        line = line.strip()
-        if not line: continue
-        if line.startswith('#EXTINF:'):
-            current['tvg-id'] = (re.search(r'tvg-id="([^"]+)"', line) or [None, ""])[1]
-            current['logo'] = (re.search(r'tvg-logo="([^"]+)"', line) or [None, ""])[1]
-            current['group'] = (re.search(r'group-title="([^"]+)"', line) or [None, "Live TV"])[1]
-            current['name'] = line[line.find(',')+1:].strip() if ',' in line else "Unknown"
-        elif line.startswith('http') and 'name' in current:
-            current['url'] = line.split('|')[0]
-            channels.append(current)
-            current = {}
-    return channels
-
-def load_local_m3u(file_path):
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return parse_m3u_content(f.read())
-    return []
-
-def load_tracker():
-    if os.path.exists(TRACKER_FILE):
         try:
-            with open(TRACKER_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except:
-            return {}
-    return {}
+            response = session.get(url, timeout=(TIMEOUT_CONNECT, TIMEOUT_READ), stream=True, allow_redirects=True)
+            if response.status_code == 200:
+                latency = time.time() - start_time
+                response.close()
+                return {"name": name, "url": url, "status": "alive", "latency": latency}
+        except Exception:
+            pass
+    return {"name": name, "url": url, "status": "dead", "latency": float('inf')}
 
-def save_tracker(tracker):
-    with open(TRACKER_FILE, 'w', encoding='utf-8') as f:
-        json.dump(tracker, f, ensure_ascii=False, indent=4)
-
-def main():
-    print("🚀 RAMIM IPTV Engine Started...")
-    
-    bd_tz = timezone(timedelta(hours=6))
-    now = datetime.now(bd_tz)
-    
-    secret_sources = os.getenv("IPTV_SOURCES", "")
-    sources = [s.strip() for s in secret_sources.split(",") if s.strip()]
-    
-    raw_channels = []
-    for src in sources:
-        try:
-            res = requests.get(src, timeout=(2.0, 4.0), verify=False, headers={'User-Agent': USER_AGENTS[0]})
-            if res.status_code == 200:
-                raw_channels.extend(parse_m3u_content(res.text))
-        except Exception as e:
-            print(f"⚠️ Error fetching source: {e}")
-
-    # ডুপ্লিকেট ইউআরএল প্রথম ধাপেই ফিল্টার করে পুল ছোট করা হচ্ছে
-    seen_urls = set()
-    unique_raw_channels = []
-    for ch in raw_channels:
-        if ch['url'] not in seen_urls:
-            seen_urls.add(ch['url'])
-            unique_raw_channels.append(ch)
-
-    death_channels = load_local_m3u(DEATH_FILE)
-    total_pool = unique_raw_channels + death_channels
-    
-    live_list = []
-    dead_list = []
-    
-    print(f"⏳ মোট {len(total_pool)}টি ইউনিক লিঙ্ক টেস্ট করা হচ্ছে...")
-    
-    # ⚡ থ্রেড সংখ্যা বাড়িয়ে ৩০০ করা হলো দ্রুত প্রসেস করার জন্য
-    with concurrent.futures.ThreadPoolExecutor(max_workers=300) as executor:
-        results = executor.map(test_stream_speed, total_pool)
-        for channel, is_live in results:
-            if is_live:
-                live_list.append(channel)
-            else:
-                dead_list.append(channel)
-
-    best_channels = {}
-    for ch in live_list:
-        name_clean = ch['name'].upper().replace('| RAMIM', '').strip()
-        if name_clean not in best_channels or ch['latency'] < best_channels[name_clean]['latency']:
-            best_channels[name_clean] = ch
-
-    tracker = load_tracker()
-    updated_tracker = {}
-    final_dead_list = []
-    seen_dead_urls = set()
-
-    for ch in dead_list:
-        url = ch['url']
-        if url in seen_dead_urls:
-            continue
-        seen_dead_urls.add(url)
+def process_iptv():
+    raw_sources = os.environ.get("IPTV_SOURCES", "")
+    if not raw_sources:
+        print("Error: No IPTV sources found in Environment Variables!")
+        return
         
-        if url not in tracker:
-            first_dead_time = now.timestamp()
-        else:
-            first_dead_time = tracker[url]
+    urls = [u.strip() for u in raw_sources.split(",") if u.strip()]
+    print(f"Total Sources Loaded: {len(urls)}")
+    
+    # ইউনিক লিঙ্ক এবং নাম এক্সট্রাক্ট করা (ফিচার ৮ এর প্রাথমিক ধাপ)
+    unique_channels = {}
+    
+    for idx, source_url in enumerate(urls):
+        try:
+            res = requests.get(source_url, timeout=10)
+            if res.status_code != 200:
+                continue
             
-        hours_dead = (now.timestamp() - first_dead_time) / 3600
-        
-        if hours_dead <= 72:
-            updated_tracker[url] = first_dead_time
-            final_dead_list.append(ch)
-        else:
-            pass # ৭২ ঘণ্টা পার হলে ট্র্যাশ ক্যান থেকে বাদ
+            lines = res.text.split('\n')
+            current_meta = ""
+            for line in lines:
+                line = line.strip()
+                if line.startswith("#EXTINF:"):
+                    current_meta = line
+                elif line.startswith("http") and current_meta:
+                    # নাম খুঁজে বের করা
+                    name_match = re.search(r',([^,]+)$', current_meta)
+                    if name_match:
+                        raw_name = name_match.group(1).strip()
+                        clean_name = clean_channel_name(raw_name)
+                        
+                        # ডুপ্লিকেট লিঙ্ক এড়ানো
+                        if line not in unique_channels:
+                            unique_channels[line] = clean_name
+                    current_meta = ""
+        except Exception as e:
+            print(f"Skipping source {idx+1} due to error: {e}")
 
-    save_tracker(updated_tracker)
-
-    next_update = now + timedelta(hours=1)
+    print(f"Total Unfiltered Extracted Links: {len(unique_channels)}")
     
-    time_header = (
-        f"# Owner: Ramim Talukder\n"
-        f"# Branding: Powered by RAMIM\n"
-        f"# Total Links Found: {len(total_pool)}\n"
-        f"# Total Live Channels: {len(best_channels)}\n"
-        f"# Total Dead Links: {len(final_dead_list)}\n"
-        f"# Last Updated On: {now.strftime('%Y-%m-%d %H:%M:%S')} (BD Time)\n"
-        f"# Next Update Scheduled: {next_update.strftime('%Y-%m-%d %H:%M:%S')} (BD Time)\n\n"
-    )
+    # মাল্টিথ্রেডিং স্পিড টেস্ট
+    channel_tasks = [(name, url) for url, name in unique_channels.items()]
+    alive_channels = []
+    dead_channels_count = 0
+    
+    print("Testing channels responsiveness and sorting by speed...")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        results = executor.map(test_single_url, channel_tasks)
+        for res in results:
+            if res["status"] == "alive":
+                alive_channels.append(res)
+            else:
+                dead_channels_count += 1
+                
+    print(f"Status Summary -> Live: {len(alive_channels)} | Dead: {dead_channels_count}")
+    
+    # ফিচার ৩, ৭, ৮: ডুপ্লিকেট নাম মার্জার, স্পিড অনুযায়ী সর্টিং এবং ব্যাকআপ লিঙ্ক সেটআপ
+    merged_channels = {}
+    for ch in alive_channels:
+        name = ch["name"]
+        if name not in merged_channels:
+            merged_channels[name] = []
+        merged_channels[name].append(ch)
+    
+    # ড্যাশবোর্ডের জন্য স্ট্যাটাস ডেটা ট্র্যাকিং (ফিচার ১০)
+    stats_data = {
+        "last_updated": time.strftime("%Y-%m-%d %H:%M:%S UTC"),
+        "total_checked": len(unique_channels),
+        "total_live": len(alive_channels),
+        "total_dead": dead_channels_count,
+        "categories": {}
+    }
+    
+    # রাইট ফাইলে ডেটা সাজানো
+    with open("master.m3u8", "w", encoding="utf-8") as f_master:
+        f_master.write("#EXTM3U\n")
+        
+        for name, links in merged_channels.items():
+            # ফিচার ৭: স্পিড (কম ল্যাটেন্সি) অনুযায়ী লিঙ্কগুলো সাজানো, প্রথমটি হবে মেইন
+            links_sorted = sorted(links, key=lambda x: x["latency"])
+            
+            category = auto_assign_category(name)
+            stats_data["categories"][category] = stats_data["categories"].get(category, 0) + 1
+            
+            # প্রধান লিঙ্কের জন্য এন্ট্রি
+            main_link = links_sorted[0]["url"]
+            f_master.write(f'#EXTINF:-1 tvg-name="{name}" group-title="{category}",{name}\n')
+            f_master.write(f'{main_link}\n')
+            
+            # ফিচার ৩: যদি অতিরিক্ত সচল লিঙ্ক থাকে, তবে সেগুলোকে ব্যাকআপ বা অল্টারনেটিভ হিসেবে যোগ করা
+            if len(links_sorted) > 1:
+                for b_idx, backup_link in enumerate(links_sorted[1:], start=1):
+                    f_master.write(f'#EXTINF:-1 tvg-name="{name} Backup {b_idx}" group-title="{category} Backup",{name} [Backup {b_idx}]\n')
+                    f_master.write(f'{backup_link["url"]}\n')
 
-    with open(MASTER_FILE, 'w', encoding='utf-8') as f:
-        f.write("#EXTM3U\n" + time_header)
-        for ch in best_channels.values():
-            f.write(f'#EXTINF:-1 tvg-id="{ch.get("tvg-id", "")}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]} | RAMIM\n')
-            f.write(f"{ch['url']}\n")
-
-    with open(DEATH_FILE, 'w', encoding='utf-8') as f:
-        f.write("#EXTM3U\n# TRASH CAN - DEAD CHANNELS FOR RE-CHECKING\n\n")
-        for ch in final_dead_list:
-            f.write(f'#EXTINF:-1 tvg-id="{ch.get("tvg-id", "")}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}\n')
-            f.write(f"{ch['url']}\n")
-
-    print(f"✅ সম্পন্ন! সচল: {len(best_channels)} | ডেড: {len(final_dead_list)}")
+    # ড্যাশবোর্ডের জন্য স্ট্যাটাস এক্সপোর্ট (ফিচার ১০ এর প্রিপারেশন)
+    with open("stats.json", "w", encoding="utf-8") as f_stats:
+        json.dump(stats_data, f_stats, indent=4)
+        
+    print("Step 1: Core Engine Upgrade Completed Successfully!")
 
 if __name__ == "__main__":
-    main()
+    process_iptv()
