@@ -32,7 +32,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            overflow: hidden; /* পিসিতে স্ক্রল বন্ধ করার জন্য */
+            overflow: hidden; /* পিসিতে স্ক্রল বন্ধ রাখার জন্য */
         }
 
         /* Background Glossy Orbs */
@@ -224,20 +224,35 @@
         footer {
             text-align: center;
             border-top: 1px solid var(--glass-border);
-            padding-top: 12px;
-            margin-top: 4px;
+            padding-top: 8px;
+            margin-top: 2px;
+        }
+        .profile-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 6px;
+        }
+        .profile-img {
+            width: 55px;
+            height: 55px;
+            border-radius: 50%;
+            border: 2px solid var(--neon-blue);
+            box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+            object-fit: cover;
+            margin-bottom: 4px;
         }
         .owner-name {
             font-size: 1.1rem;
             font-weight: 700;
             color: #fff;
-            margin-bottom: 8px;
+            margin: 0 0 6px 0;
         }
         .social-links {
             display: flex;
             justify-content: center;
             gap: 12px;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
         }
         .social-btn {
             padding: 6px 14px;
@@ -335,7 +350,11 @@
 
     <!-- Footer & Owner Info -->
     <footer>
-        <div class="owner-name">Ramim Talukder</div>
+        <div class="profile-container">
+            <!-- GitHub Profile Avatar Link dynamically loaded -->
+            <img class="profile-img" id="owner-avatar" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=200&auto=format&fit=crop" alt="Ramim Talukder">
+            <div class="owner-name">Ramim Talukder</div>
+        </div>
 
         <div class="social-links">
             <a href="https://web.facebook.com/RamimTalukderFB" target="_blank" class="social-btn fb">
@@ -353,12 +372,17 @@
 </div>
 
 <script>
-    // URL Auto Generation
+    // URL and Username Auto Detection
     const pathArray = window.location.pathname.split('/');
     const repoName = pathArray[1] || "ramim-iptv-engine";
     const username = window.location.hostname.split('.')[0] || "ramim247";
     const rawM3uUrl = `https://raw.githubusercontent.com/${username}/${repoName}/main/master.m3u8`;
     document.getElementById('playlist-url').value = rawM3uUrl;
+
+    // Dynamically fetch and set GitHub Avatar
+    if(username && username !== "localhost" && username !== "127") {
+        document.getElementById('owner-avatar').src = `https://github.com/${username}.png`;
+    }
 
     // Fast Counter Animation Function
     function animateCounter(id, targetValue) {
