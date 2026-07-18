@@ -3,11 +3,13 @@ name: Ramim IPTV Self-Healing Engine
 on:
   schedule:
     - cron: '0 18 * * *' # বাংলাদেশ সময় ঠিক রাত ১২:০০ টায় (18:00 UTC) রান হবে
-  workflow_dispatch: # এটি থাকার কারণে আপনি চাইলে যেকোনো সময় ম্যানুয়ালিও রান করতে পারবেন
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
 jobs:
   build-and-sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # গিটহাবে ফাইল পুশ এবং রিলিজ তৈরি করার পারমিশন
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -25,10 +27,25 @@ jobs:
           IPTV_SOURCES: ${{ secrets.IPTV_SOURCES }}
         run: python updater.py
 
-      - name: Commit and Push Updates
+      - name: Commit and Push Stats
         run: |
           git config --global user.name "ramim247"
           git config --global user.email "ramimcomputer247@gmail.com"
-          git add master.m3u8 death.m3u8 dead_tracker.json
-          git diff-index --quiet HEAD || git commit -m "RAMIM Engine Midnight Auto-Refreshed [$(date)]"
+          git add master.m3u8 death.m3u8 dead_tracker.json stats.json
+          git diff-index --quiet HEAD || git commit -m "RAMIM247 Engine Midnight Auto-Refreshed [$(date)]"
           git push
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "v${{ github.run_number }}"
+          name: "IPTV Package - Build ${{ github.run_number }}"
+          body: |
+            Ramim IPTV Engine সফলভাবে আপডেট হয়েছে!
+            তারিখ: ${{ github.event.repository.updated_at }}
+            সর্বশেষ সচল প্লেলিস্টটি নিচে অ্যাটাচ করা হলো।
+          files: |
+            master.m3u8
+            stats.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
