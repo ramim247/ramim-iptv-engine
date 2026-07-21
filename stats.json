@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-07-20 19:54:26 UTC",
-    "total_live": 13645,
-    "total_dead": 27608,
+    "last_updated": "2026-07-21 19:30:28 UTC",
+    "total_live": 13552,
+    "total_dead": 27409,
     "categories": {
-        "Entertainment": 3666,
-        "Other": 6156,
-        "Sports": 437,
-        "Kids": 81,
-        "News": 1967,
+        "Entertainment": 3643,
+        "Other": 6257,
+        "News": 2027,
+        "Sports": 435,
+        "Kids": 80,
         "Movies": 178,
-        "Music": 93
+        "Music": 91
     }
 }
