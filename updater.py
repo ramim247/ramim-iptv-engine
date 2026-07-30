@@ -103,8 +103,9 @@ def generate_bd_india_playlist(alive_channels):
                     b_id_str = f' tvg-id="{backup_item["tvg_id"]}"' if backup_item["tvg_id"] else ""
                     f_bdin.write(f'#EXTINF:-1 tvg-name="{name} Backup {b_idx}"{b_id_str}{b_logo_str} group-title="{category} Backup",{name} [Backup {b_idx}]\n{backup_item["url"]}\n')
 
-    print(f"🎉 New Playlist Created: 'bd_india.m3u8' with {len(merged_bd_in)} BD & India Channels!")
-    return len(merged_bd_in)
+    bd_in_total_links = sum(len(links) for links in merged_bd_in.values())
+    print(f"🎉 New Playlist Created: 'bd_india.m3u8' with {bd_in_total_links} BD & India Links!")
+    return bd_in_total_links
 
 def process_iptv():
     raw_sources = os.environ.get("IPTV_SOURCES", "")
