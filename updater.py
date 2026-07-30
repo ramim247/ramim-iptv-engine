@@ -29,6 +29,15 @@ CATEGORY_MAP = {
     'Kids': ['kids', 'cartoon', 'disney', 'nick', 'pogo']
 }
 
+BD_INDIA_KEYWORDS = [
+    'bangla', 'bangladesh', 'bd', 'india', 'indian', 'somoy', 'jamuna', 'ekattor',
+    'independent', 'atn', 'channel i', 'ntv', 'gtv', 'gazi', 'deepto', 'maasranga',
+    'desh', 'boishakhi', 'rtv', 'my tv', 'asian tv', 'bangla vision', 'saatv',
+    'star jalsha', 'zee bangla', 'colors bangla', 'sony aath', 'sun bangla',
+    'star plus', 'star gold', 'zee tv', 'zee cinema', 'sony tv', 'sony max',
+    'sony sab', 'colors tv', 'colors', 'aaj tak', 'ndtv', 'republic', 'news18'
+]
+
 def clean_channel_name(name):
     cleaned = name.strip()
     for pattern in CLEANUP_PATTERNS:
@@ -65,6 +74,38 @@ def test_single_url(channel_info):
             pass
     return {"name": name, "url": url, "logo": logo, "tvg_id": tvg_id, "status": "dead", "latency": float('inf')}
 
+def generate_bd_india_playlist(alive_channels):
+    """শুধুমাত্র জ্যান্ত (Alive) ইন্ডিয়ান ও বিডি চ্যানেলগুলোর জন্য নতুন প্লেলিস্ট জেনারেট করে"""
+    merged_bd_in = {}
+    for ch in alive_channels:
+        name = ch["name"]
+        name_lower = name.lower()
+        if any(keyword in name_lower for keyword in BD_INDIA_KEYWORDS):
+            if name not in merged_bd_in:
+                merged_bd_in[name] = []
+            merged_bd_in[name].append(ch)
+
+    with open("bd_india.m3u8", "w", encoding="utf-8") as f_bdin:
+        f_bdin.write("#EXTM3U\n")
+        for name, links in merged_bd_in.items():
+            links_sorted = sorted(links, key=lambda x: x["latency"])
+            category = auto_assign_category(name)
+            
+            main_item = links_sorted[0]
+            logo_str = f' tvg-logo="{main_item["logo"]}"' if main_item["logo"] else ""
+            id_str = f' tvg-id="{main_item["tvg_id"]}"' if main_item["tvg_id"] else ""
+            
+            f_bdin.write(f'#EXTINF:-1 tvg-name="{name}"{id_str}{logo_str} group-title="{category}",{name}\n{main_item["url"]}\n')
+            
+            if len(links_sorted) > 1:
+                for b_idx, backup_item in enumerate(links_sorted[1:], start=1):
+                    b_logo_str = f' tvg-logo="{backup_item["logo"]}"' if backup_item["logo"] else ""
+                    b_id_str = f' tvg-id="{backup_item["tvg_id"]}"' if backup_item["tvg_id"] else ""
+                    f_bdin.write(f'#EXTINF:-1 tvg-name="{name} Backup {b_idx}"{b_id_str}{b_logo_str} group-title="{category} Backup",{name} [Backup {b_idx}]\n{backup_item["url"]}\n')
+
+    print(f"🎉 New Playlist Created: 'bd_india.m3u8' with {len(merged_bd_in)} BD & India Channels!")
+    return len(merged_bd_in)
+
 def process_iptv():
     raw_sources = os.environ.get("IPTV_SOURCES", "")
     if not raw_sources:
@@ -100,7 +141,6 @@ def process_iptv():
                         raw_name = name_match.group(1).strip()
                         clean_name = clean_channel_name(raw_name)
                         
-                        # লগো এবং টিভিজি আইডি এক্সট্রাক্ট করা
                         logo_match = re.search(r'tvg-logo="([^"]+)"', current_meta)
                         id_match = re.search(r'tvg-id="([^"]+)"', current_meta)
                         
@@ -155,14 +195,18 @@ def process_iptv():
         if name not in merged_channels: merged_channels[name] = []
         merged_channels[name].append(ch)
 
+    # BD & India প্লেলিস্ট জেনারেট এবং কাউন্ট নেওয়া
+    total_bd_india_count = generate_bd_india_playlist(alive_channels)
+
     stats_data = {
         "last_updated": time.strftime("%Y-%m-%d %H:%M:%S UTC"),
         "total_live": len(alive_channels),
+        "total_bd_india": total_bd_india_count,
         "total_dead": len(new_dead_urls),
         "categories": {}
     }
 
-    # master.m3u8 রাইট করা (লগো ট্যাগ সহ)
+    # master.m3u8 রাইট করা
     with open("master.m3u8", "w", encoding="utf-8") as f_master:
         f_master.write("#EXTM3U\n")
         for name, links in merged_channels.items():
@@ -171,7 +215,6 @@ def process_iptv():
             stats_data["categories"][category] = stats_data["categories"].get(category, 0) + 1
             
             main_item = links_sorted[0]
-            # লগো এবং আইডি স্ট্র্রিং তৈরি
             logo_str = f' tvg-logo="{main_item["logo"]}"' if main_item["logo"] else ""
             id_str = f' tvg-id="{main_item["tvg_id"]}"' if main_item["tvg_id"] else ""
             
@@ -194,7 +237,7 @@ def process_iptv():
     with open("stats.json", "w", encoding="utf-8") as f_stats:
         json.dump(stats_data, f_stats, indent=4)
         
-    print(f"Upgrade Completed with Logos! Live: {len(alive_channels)} | Tracked Dead: {len(new_dead_urls)}")
+    print(f"Upgrade Completed with Logos! Live: {len(alive_channels)} | BD/India Live: {total_bd_india_count} | Tracked Dead: {len(new_dead_urls)}")
 
 if __name__ == "__main__":
     process_iptv()
