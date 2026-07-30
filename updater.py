@@ -74,8 +74,21 @@ def test_single_url(channel_info):
             pass
     return {"name": name, "url": url, "logo": logo, "tvg_id": tvg_id, "status": "dead", "latency": float('inf')}
 
+def sync_channel_metadata(group_links):
+    """সমনামের চ্যানেলগুলোর মধ্যে যদি অন্তত যেকোনো একটিতে লোগো বা tvg-id থাকে, তবে তা বাকিগুলোতে ফিল করে দেয়"""
+    valid_logo = next((item["logo"] for item in group_links if item.get("logo")), "")
+    valid_tvg_id = next((item["tvg_id"] for item in group_links if item.get("tvg_id")), "")
+
+    for item in group_links:
+        if not item.get("logo") and valid_logo:
+            item["logo"] = valid_logo
+        if not item.get("tvg_id") and valid_tvg_id:
+            item["tvg_id"] = valid_tvg_id
+
+    return group_links
+
 def generate_bd_india_playlist(alive_channels):
-    """শুধুমাত্র জ্যান্ত (Alive) ইন্ডিয়ান ও বিডি চ্যানেলগুলোর জন্য নতুন প্লেলিস্ট জেনারেট করে"""
+    """শুধুমাত্র জ্যান্ত (Alive) ইন্ডিয়ান ও বিডি চ্যানেলগুলোর জন্য নতুন প্লেলিস্ট জেনারেট করে"""
     merged_bd_in = {}
     for ch in alive_channels:
         name = ch["name"]
@@ -88,6 +101,8 @@ def generate_bd_india_playlist(alive_channels):
     with open("bd_india.m3u8", "w", encoding="utf-8") as f_bdin:
         f_bdin.write("#EXTM3U\n")
         for name, links in merged_bd_in.items():
+            # লোগো এবং tvg-id মার্জ ও সিঙ্ক
+            links = sync_channel_metadata(links)
             links_sorted = sorted(links, key=lambda x: x["latency"])
             category = auto_assign_category(name)
             
@@ -196,7 +211,7 @@ def process_iptv():
         if name not in merged_channels: merged_channels[name] = []
         merged_channels[name].append(ch)
 
-    # BD & India প্লেলিস্ট জেনারেট এবং কাউন্ট নেওয়া
+    # BD & India প্লেলিস্ট জেনারেট এবং কাউন্ট নেওয়া
     total_bd_india_count = generate_bd_india_playlist(alive_channels)
 
     stats_data = {
@@ -211,6 +226,8 @@ def process_iptv():
     with open("master.m3u8", "w", encoding="utf-8") as f_master:
         f_master.write("#EXTM3U\n")
         for name, links in merged_channels.items():
+            # লোগো এবং tvg-id মার্জ ও সিঙ্ক
+            links = sync_channel_metadata(links)
             links_sorted = sorted(links, key=lambda x: x["latency"])
             category = auto_assign_category(name)
             stats_data["categories"][category] = stats_data["categories"].get(category, 0) + 1
@@ -238,7 +255,7 @@ def process_iptv():
     with open("stats.json", "w", encoding="utf-8") as f_stats:
         json.dump(stats_data, f_stats, indent=4)
         
-    print(f"Upgrade Completed with Logos! Live: {len(alive_channels)} | BD/India Live: {total_bd_india_count} | Tracked Dead: {len(new_dead_urls)}")
+    print(f"Upgrade Completed with Shared Logos! Live: {len(alive_channels)} | BD/India Live: {total_bd_india_count} | Tracked Dead: {len(new_dead_urls)}")
 
 if __name__ == "__main__":
     process_iptv()
