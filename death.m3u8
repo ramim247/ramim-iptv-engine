@@ -9,9 +9,9 @@ https://mytvbangla.com/0.m3u8
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="Dead-Archive",T Sports 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Dead-Archive",T Sports Hd (4) (4)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Dead-Archive",T Sports Hd (4) (4) (4) (4) (4)
 https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=596b59a47156723120620a13ce202b8ce8b924a5-0e111c99c13de299be4efab0c5f5cd23-1781283307-1781272507
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Dead-Archive",T Sports (5) (5) (5) (5) (5)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Dead-Archive",T Sports (5) (5) (5) (5) (5) (5) (5) (5)
 https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=cc7c3da2077fe40ad744e2188539d6618debaf31-eb6ef47e777a4759d5706b5c8fc25320-1781283307-1781272507
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Dead-Archive",[Bd] Wc Match Recap
 https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
@@ -147,8 +147,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Dead-Archive",[Bd] Sony Yay
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Dead-Archive",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Star Sports2
 http://power8kse.xyz/s5b6tb5b8/c6a783a669/441103
 #EXTINF:-1 group-title="Dead-Archive",Somoy Tv
@@ -259,8 +257,6 @@ https://stream.ashokadigital.net/sscn/sscn/index.m3u8
 https://rtmp.bmlive.net/ctn/ctntn/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754494620_Ver%202.0_04.png" group-title="Dead-Archive",52 Voice Tv
 https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg" group-title="Dead-Archive",61 Jeeva Tv
-https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779002306_aple%20tv.png" group-title="Dead-Archive",62 Apple Tv
 https://app.ashokadigital.net/app/26bf3ef1/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png" group-title="Dead-Archive",74 Ruby Digital Tv
@@ -269,8 +265,12 @@ https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1760613566_Deiveeka%20oli.png" group-title="Dead-Archive",92 Deivega Oil
 https://app.ashokadigital.net/app/34e04c34/index.m3u8
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New%20Ai%20Logp%20copy.png" group-title="Dead-Archive",96 Vezhamugam
+http://live.mintv.in/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764994908_7SM%20Still%202.png" group-title="Dead-Archive",119 7Star Music
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752245098_PR%20TV%20LOGO%20PNG.png" group-title="Dead-Archive",123 Pr Tv
+http://applelive.in/prtv/prtv.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753716414_madhi%20tv.png" group-title="Dead-Archive",125 Mathi Tv
 https://notvstream.in/mathitv/mathitv.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746463528_WhatsApp_Image_2025-05-05_at_8.17.32_PM-removebg-preview.png" group-title="Dead-Archive",128 Eagle Tv
@@ -295,6 +295,8 @@ https://stream.ashokadigital.net/rohith/rohith/index.m3u8
 https://live.applelive.in/janasruthitv/janasruthitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785328102_Garudan%20TV%20Logo.png" group-title="Dead-Archive",233 Garudantv
 https://applelive.in/stream/garudantv
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" group-title="Dead-Archive",239 Idhayam Tv
+https://idhayamtvstream.cloudlive24.com/live/526a544940cc10374f61bf8c72cab18a.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Dead-Archive",287 Abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835651_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Dead-Archive",290 Thannaram Tv
@@ -327,8 +329,6 @@ https://app.ashokadigital.net/app/7fff5003/index.m3u8
 http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772671396_Palkar%20TV%20new%20Logo%204.3.26.PNG" group-title="Dead-Archive",770 Palkar Tv
 https://rtmp.applelive.in/palkartv/palkartv/index.m3u8
-#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Dead-Archive",850 7Gtv
-https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443533_1748378439_4.png" group-title="Dead-Archive",906 Chanakya News Rajsthan
 http://newsliveindia.com/chanakyanewsindiarjhls/chanakyanewsrajsthan.m3u8
 #EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770791269_LOGO%20(1).png" group-title="Dead-Archive",919 News 21
@@ -349,6 +349,8 @@ http://103.175.73.12:8080/live/173/master.m3u8
 http://103.175.73.12:8080/live/179/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="Dead-Archive",Movieplex (576P)
 http://103.175.73.12:8080/live/583/master.m3u8
+#EXTINF:-1 group-title="Dead-Archive",News Time Bangla
+http://103.175.73.12:8080/live/665/master.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Anand Tv
 http://103.175.73.12:8080/live/770/master.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Dead-Archive",Max Anime
@@ -379,8 +381,6 @@ https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZNeotvCL&password=Ae2m
 https://v2.tustreaming.cl/lrp/index.m3u8
 #EXTINF:-1 tvg-logo="https://magickids.site/favicon.ico" group-title="Dead-Archive",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/contivision.png" group-title="Dead-Archive",Contivision
-https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png" group-title="Dead-Archive",Zee Talkies
 https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383489/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Dead-Archive",Zee Cinema Hd
@@ -579,8 +579,6 @@ https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f
 http://103.159.180.34:5001/live/873.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png" group-title="Dead-Archive",Sony Yay Telugu
 http://103.159.180.34:5001/live/874.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JANTA_TV/images/LOGO_HD/image.png" group-title="Dead-Archive",Janta Tv (1080P)
-https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Dead-Archive",Oscar Movies
 https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="Dead-Archive",Tv5 Monde
@@ -789,8 +787,6 @@ http://103.159.180.34:5001/live/1369.m3u8
 http://103.159.180.34:5001/live/1370.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Dead-Archive",Colors Tamil
 http://202.70.146.135:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Dead-Archive",Disney Channel
-http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Dead-Archive",Disney Junior (576P)
 http://149.71.34.166:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="Dead-Archive",Goodness Tv (576P)
@@ -811,6 +807,8 @@ http://103.159.180.34:5001/live/1432.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Balle Balle
 https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Dead-Archive",Janapriyam
+http://103.159.180.34:5001/live/1455.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST11_HD.png" group-title="Dead-Archive",Test11 Hd
 http://103.159.180.34:5001/live/1475.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST12_HD.png" group-title="Dead-Archive",Test12 Hd
@@ -837,6 +835,8 @@ https://cable63tataplay.akamaized.net/live6/35mm/index.m3u8
 https://cable27tataplay.akamaized.net/atmadarshan/atmadarshan/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_24.png" group-title="Dead-Archive",Samachar 24
 https://cable73tataplay.akamaized.net/samachar24/samachar24/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png" group-title="Dead-Archive",Real News Kerala (1080P) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png" group-title="Dead-Archive",Colors Kannada Cinema
 http://103.159.180.34:5001/live/1632.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_Movies.png" group-title="Dead-Archive",Public Movies
@@ -903,10 +903,10 @@ https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u
 https://zati5.hasanhabibmottakin.workers.dev/0-9-pictures/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Stv Haryana News
 https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
-#EXTINF:-1 group-title="Dead-Archive",Nagaland Tv
-https://cdn-6.pishow.tv/live/10014/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Dead-Archive",Pogo Telugu
 http://103.159.180.34:5001/live/1883.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kripa_TV.png" group-title="Dead-Archive",Kripa Tv
+https://umangmedia.livebox.co.in/Kripatvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ENB.png" group-title="Dead-Archive",Express News Bharat
 https://cable16tatasky.akamaized.net/hls/enbnews.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" group-title="Dead-Archive",Et Now Swadesh
@@ -947,8 +947,6 @@ https://nakshatratataplay.akamaized.net/nakshatradigital/nakshatradigital/index.
 https://mumt02.tangotv.in/BHARATEXPRESS/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",M Nadu Tv
 https://mumt01.tangotv.in/MNADU/index.m3u8
-#EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_10_1743505786.png" group-title="Dead-Archive",Prime 9
-https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZestHD.png" group-title="Dead-Archive",Zee Zest Hd
 http://103.159.180.34:5001/live/2757.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dd Assam
@@ -1089,6 +1087,8 @@ https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 https://www.offer360.in/bhagyamtv/bhagyam/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Godlywood_Studios.png" group-title="Dead-Archive",Godlywood Studios
 http://103.159.180.34:5001/live/3366.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_TV_India.png" group-title="Dead-Archive",News Tv India
+https://stream.ottlive.co.in/newstvindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Dead-Archive",Sony Liv Sports 1
 http://103.159.180.34:5001/live/3372.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Dead-Archive",Sony Liv Sports 2
@@ -1209,6 +1209,8 @@ https://annainew.livebox.co.in/annaitamilhls/live.m3u8
 https://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Rmk Tv
 https://account23.livebox.co.in/RMKTVhls/live.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Vidiyal Tv
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_1_1728458922_thumb.png" group-title="Dead-Archive",Vod 1
 http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_2_1728459238_thumb.png" group-title="Dead-Archive",Rodhi Tv
@@ -1717,8 +1719,6 @@ https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8
 https://d17d533u08po4z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sf-1726164461868.jpg" group-title="Dead-Archive",Sports First Tv
 https://d13f5ho7dp9xg4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-SportsFirstTV/409.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/trace-sports-1737591821601.jpg" group-title="Dead-Archive",Trace Sports Stars
-https://streams2.sofast.tv/ptnr-khabriya/title-TRACESportStars_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5ba0c913-4b4f-4714-8ea6-bc618c602081/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" group-title="Dead-Archive",Sgb Tv
 https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dd Meghalaya
@@ -1735,6 +1735,8 @@ https://cdn-3.pishow.tv/live/1247/master.m3u8
 https://cdn-1.pishow.tv/live/1291/master.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Jai Maharashtra
 https://cdn-3.pishow.tv/live/1465/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TIME_BANGLA/images/LOGO_HD/image.png" group-title="Dead-Archive",Newstime Bangla (576P)
+https://cdn-2.pishow.tv/live/1494/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540" group-title="Dead-Archive",Nick Tamil
 http://ptuf.ridsys.in/riptv/live/NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="Dead-Archive",Gazi Tv Hd
@@ -1931,6 +1933,8 @@ https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_112_1721408385.png" group-title="Dead-Archive",Etv Plus
 https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0133-1770988296.png" group-title="Dead-Archive",E69 News
+https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0134-1770989093.png" group-title="Dead-Archive",Bahujana News Tv
 https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_115_1721408224.png" group-title="Dead-Archive",Etv Abhiruchi
@@ -1997,6 +2001,8 @@ https://mumbai-edge.smartplaytv.in/FirstPost/index.m3u8
 https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C339-1769754654.png" group-title="Dead-Archive",Racer Select
 https://mumbai-edge.smartplaytv.in/RacerSelect/index.m3u8
+#EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_281_1721038584.png" group-title="Dead-Archive",People Are Awesome
+https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_289_1715952095.png" group-title="Dead-Archive",Horizon Sports
 https://mumbai-edge.smartplaytv.in/HorizonSports/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C360-1770631624.png" group-title="Dead-Archive",Janam Sakshi
@@ -2011,8 +2017,6 @@ https://mumbai-edge.smartplaytv.in/runthrillers/index.m3u8
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_335_1721040083.png" group-title="Dead-Archive",Cnn Usa
 https://mumbai-edge.smartplaytv.in/CNNUSA/index.m3u8
-#EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_341_1737379459.png" group-title="Dead-Archive",Angel Tv
-https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C460-1770466824.png" group-title="Dead-Archive",Hosanna Tv
 https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C488-1759867570.png" group-title="Dead-Archive",Vedha Tv
@@ -2477,6 +2481,8 @@ https://vvsolutions.in/lmc/lmc.m3u8
 https://vvsolutions.in/ktimes/ktimes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqJ08ZpR/1000153310.png" group-title="Dead-Archive",Tv8 News
 https://vvsolutions.in/tv8news/tv8news.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Yj Tv
+https://vvsolutions.in/yjtv/yjtv.m3u8
 #EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Dead-Archive",Whiplash (Nive)
 https://mci01.nive.live/10/index.m3u8
 #EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Dead-Archive",Window Tv (Nive)
@@ -2649,6 +2655,8 @@ https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Dead-Archive",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Dead-Archive",Angel Tv Australia (720P)
+https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAO9llk.png" group-title="Dead-Archive",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c091c39863900007ac9e8f/colorLogoPNG.png" group-title="Dead-Archive",Are You The One?
@@ -3227,8 +3235,6 @@ https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
 https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png" group-title="Dead-Archive",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBcwks7.png" group-title="Dead-Archive",Jewelry Television (720P)
-https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Jewelry Tv 2 (720P)
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="Dead-Archive",Judge Judy
@@ -3269,8 +3275,6 @@ http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Dead-Archive",Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="Dead-Archive",Living Faith Tv (540P)
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png" group-title="Dead-Archive",Logo Pluto Tv
 https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" group-title="Dead-Archive",Lone Star (720P)
@@ -3913,7 +3917,7 @@ https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png" group-title="Dead-Archive",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Dead-Archive",Rock Action (1080P)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Dead-Archive",Rock Action (1080P)
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="Dead-Archive",Rsi La 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
@@ -4567,6 +4571,8 @@ https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/anshun.jpg" group-title="Dead-Archive",Anshun Comprehensive News Channel
 https://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Dead-Archive",Antares Televisión (720P) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" group-title="Dead-Archive",Antena 1 (1080P)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tgxrcv7.png" group-title="Dead-Archive",Antenne A
@@ -4575,8 +4581,6 @@ http://51.254.199.122:8080/antenne_a-plus/index.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 group-title="Dead-Archive",Antiques Road Show Uk (720P)
 https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Dead-Archive",Anzoátegui Tv (360P) [Not 24/7]
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Dead-Archive",Apa Tv (1080P)
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Dead-Archive",Apsara Tv11 (720P)
@@ -4605,6 +4609,10 @@ https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 https://d3cm8xyrjwa22p.cloudfront.net/30504/88896035/hls/master.m3u8?ads.xumo_channelId=88896035
 #EXTINF:-1 group-title="Dead-Archive",Assombrações
 https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QWR9SOH.png" group-title="Dead-Archive",Atabal Tv (1080P) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Dead-Archive",Atb La Paz (1080P)
+http://15.204.246.24:8080/ATBHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" group-title="Dead-Archive",Atm Rozrywka Rework (720P)
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png" group-title="Dead-Archive",Atrak
@@ -4613,8 +4621,6 @@ https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 https://atrihls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SPOVN7.png" group-title="Dead-Archive",Auction Hunters
 https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" group-title="Dead-Archive",Aupur Television (1080P)
-https://canal.aupurtv.co/live/stream/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Automoto
@@ -4677,8 +4683,6 @@ https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="Dead-Archive",Batam Tv (480P) [Not 24/7]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Dead-Archive",Bayres Tv (720P)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Bbc Series
 https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Bbc Series
@@ -4697,10 +4701,6 @@ https://jmp2.uk/plu-6512d6a0a1217e00092c1214.m3u8
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Beijing Traffic Radio Tv [Geoblocked]
 http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="Dead-Archive",Bella Abanquina Tv (720P)
-https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="Dead-Archive",Belros (720P)
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Best Of Bobby Flay By Food Network (720P)
 https://jmp2.uk/plu-68bb167e00a2f063fdf7ee8f.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Best Of Magnus Midtbø
@@ -4757,6 +4757,8 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="Dead-Archive",Bob L'Éponge (720P)
 https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Dead-Archive",Bolivision (1080P)
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Born To Kill (720P)
 https://jmp2.uk/plu-650315163a0d700008bb07f8.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Boruto: Naruto Next Generations
@@ -4951,8 +4953,6 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Cinema Poliziottesco
 https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Dead-Archive",Cinerama Television (720P)
-https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Cinethriller (720P)
 https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Ciudadanos Por El Mundo
@@ -5127,8 +5127,6 @@ https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 group-title="Dead-Archive",Den Gode Gerning
 https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="Dead-Archive",Dena
-https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Deportes Por Movistar Plus+
 https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Der Bergdoktor
@@ -5203,8 +5201,6 @@ https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="Dead-Archive",Dounia Tv
 https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
-#EXTINF:-1 group-title="Dead-Archive",Douyu8
-http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 group-title="Dead-Archive",Douyu19
 http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 group-title="Dead-Archive",Dr G Medical Examiner
@@ -5223,6 +5219,8 @@ https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="Dead-Archive",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Dead-Archive",Dreamworks Channel Latin America (1080P)
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Dead-Archive",Dstv (720P)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dulce By Elgourmet (720P)
@@ -5243,6 +5241,8 @@ https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Dead-Archive",E 24 (576P)
 https://trs1.aynaott.com/e24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Dead-Archive",E! Latin America (1080P)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="Dead-Archive",Evidya 1 (576P)
 http://103.72.101.252:8080/live/400.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sz6t9F.png" group-title="Dead-Archive",Evidya 2 (576P)
@@ -5293,6 +5293,12 @@ https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
 #EXTINF:-1 group-title="Dead-Archive",El Rey Rebel (720P)
 https://jmp2.uk/plu-691d1200c2185a44642f5e7c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Dead-Archive",El Trece (1080P)
+http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="Dead-Archive",El Watania 1 (1080I)
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="Dead-Archive",El Watania 2 (1080P)
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Dead-Archive",Embrujadas
 https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Emergency 24/7 (1080P) [Geoblocked]
@@ -5381,6 +5387,8 @@ https://jmp2.uk/plu-643f03b9d8436e0008edf021.m3u8
 https://jmp2.uk/plu-65cb8bd911ced7000820bff2.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Farmland Tv (720P)
 https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="Dead-Archive",Faros Tv2 (480P) [Geoblocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="Dead-Archive",Fars
 https://ncdn.telewebion.ir/fars/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qvs1BKr.png" group-title="Dead-Archive",Feel Good Tv (720P) [Not 24/7]
@@ -5521,10 +5529,6 @@ https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Dead-Archive",Gold Tv (576P)
-https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Dead-Archive",Gold Tv Sat (576P)
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Dead-Archive",Golden (1080P)
 http://38.19.41.46:8081/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Dead-Archive",Golden Edge (1080P)
@@ -5607,8 +5611,6 @@ https://jmp2.uk/plu-65819fc1b9adc4000813f37d.m3u8
 https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Hit Sitcoms (720P)
 https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Dead-Archive",Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Hoarders (720P)
 https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Hoarders (720P)
@@ -5655,8 +5657,6 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="Dead-Archive",Hrt 4 Hd (720P) [Geoblocked]
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="Dead-Archive",Htv Key (1080P)
-https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 group-title="Dead-Archive",Hundehviskeren
 https://jmp2.uk/plu-6501af923a0d700008b71b53.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Hundehviskeren
@@ -5943,8 +5943,6 @@ https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
 https://jmp2.uk/plu-62e91b5ca909cb0008114ae4.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Léo Mattéï: Brigada De Protección
 https://jmp2.uk/plu-6964d2179ba4ac18051a18ce.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Dead-Archive",Leomax 24 (1080P)
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Les Anges
 https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1OjaB0.png" group-title="Dead-Archive",Les Années Fac
@@ -6195,16 +6193,6 @@ https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Dead-Archive",Moviesphere (720P)
 https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Dead-Archive",Mrtv
-https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Dead-Archive",Mrtv Entertainment
-https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Dead-Archive",Mrtv Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Dead-Archive",Mrtv News
-https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Dead-Archive",Mrtv Nrc
-https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="Dead-Archive",Mtrk (576P)
 https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Dead-Archive",Mtv Are You The One?
@@ -6395,8 +6383,6 @@ https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDoQaGl.png" group-title="Dead-Archive",Nopola News (1080P) [Not 24/7]
 https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="Dead-Archive",Norteña Tv (576P)
-https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Northern Exposure (720P)
 https://jmp2.uk/plu-677fb0e93a225c2d0d8a45bf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pQdGw1.png" group-title="Dead-Archive",Nostv Bonaire 2
@@ -6421,6 +6407,8 @@ https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Obsesión Por Los Autos
 https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="Dead-Archive",Odeon 24 (288P)
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="Dead-Archive",Oftv Offenbach (720P)
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png" group-title="Dead-Archive",Ofogh
@@ -6433,12 +6421,6 @@ https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
 https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Omstars (1080P)
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="Dead-Archive",On Kids (720P)
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="Dead-Archive",On Life (720P)
-https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Dead-Archive",On Movies (720P)
-https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Dead-Archive",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Dead-Archive",One Piece
@@ -7099,6 +7081,8 @@ https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Dead-Archive",Qmusic (720P)
 https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="Dead-Archive",Qtv3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Quantum Leap (720P)
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Qui Veut Gagner Des Millions? (720P)
@@ -7359,8 +7343,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" group-title="Dead-Archive",Rtp Madeira (504P) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" group-title="Dead-Archive",Rtp Memória (504P) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" group-title="Dead-Archive",Rtp Mundo (504P) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="Dead-Archive",Rtp Noticias (720P) [Not 24/7]
@@ -7431,14 +7413,16 @@ https://jmp2.uk/plu-69b01641a9b840a456a11c18.m3u8
 https://jmp2.uk/plu-69b968a58323ef2714d1aa36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfk298I.png" group-title="Dead-Archive",Sctv3 (720P)
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="Dead-Archive",Sctv4 (720P)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmFfy9o.png" group-title="Dead-Archive",Sctv11 (720P)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pDFkH0.png" group-title="Dead-Archive",Sctv12 (720P)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoz1iDw.png" group-title="Dead-Archive",Sctv13 (720P)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="Dead-Archive",Sctv16 (720P)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yBAFZRs.png" group-title="Dead-Archive",Sctv19 (720P)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfUSlgI.png" group-title="Dead-Archive",Sctv18 (720P)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ABZhfZ.png" group-title="Dead-Archive",Sctv20 (720P)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Se Og Hør – Rød Løber
@@ -7771,8 +7755,6 @@ https://jmp2.uk/plu-65790feacbd0d60008fac87a.m3u8
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJWj5ja.png" group-title="Dead-Archive",Telequindio (1080P)
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-#EXTINF:-1 group-title="Dead-Archive",Teleregione 118 (576P)
-https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Dead-Archive",Telesur (720P)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opuhDX9.png" group-title="Dead-Archive",Televize Prerov (1080P) [Geoblocked]
@@ -7871,6 +7853,8 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Dead-Archive",Tlnovelas Latin America (1080P)
 http://177.234.249.135:8888/Telenovelas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Dead-Archive",Tn (1080P)
+http://15.204.246.24:8080/TNHD/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Tna Wrestling (720P)
 https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8nvCXzt.png" group-title="Dead-Archive",Tnh (720P)
@@ -7897,8 +7881,6 @@ https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" group-title="Dead-Archive",Tout Le Monde Déteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Dead-Archive",Tra Vinh Tv (1080P)
-https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="Dead-Archive",Transformers (1080P) [Geoblocked]
 https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Travel & Food Tv (720P)
@@ -7909,6 +7891,8 @@ http://103.72.101.252:8080/live/814.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="Dead-Archive",Trt (720P)
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Dead-Archive",Trt Cocuk (1440P)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="Dead-Archive",True Crime By Pluto Tv
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Dead-Archive",Turbo (720P)
@@ -7935,10 +7919,8 @@ https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Dead-Archive",Tv Arbëria Retro Hits (720P)
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Dead-Archive",Tv Brasil Oeste (720P)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Dead-Archive",Tv Câmara (1080P)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOlN5Rz.png" group-title="Dead-Archive",Tv Belle Amie (540P)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="Dead-Archive",Tv Dielli (720P) [Not 24/7]
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Dead-Archive",Tv Dk (486P) [Not 24/7]
@@ -8201,6 +8183,8 @@ https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Xfactor: Das Unfassbare
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcNzVNN.png" group-title="Dead-Archive",Xama Tv
+https://srs.unsj.edu.ar/live/xama/xama.flv
 #EXTINF:-1 group-title="Dead-Archive",Xena: Warrior Princess (720P)
 https://jmp2.uk/plu-677fb0b33a225c2d0d8a17be.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Xite Gospel (720P)
@@ -8277,44 +8261,8 @@ http://ftp.orbita.dn.ua/hls/orbita.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Dead-Archive",Первый Музыкальный Канал Hd (1080P)
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" group-title="Dead-Archive",Первый Ярославский (1080P)
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="Dead-Archive",Сити Эдем Play Христианский Музыкальный [Not 24/7]
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Dead-Archive",Сити Эдем Автогид [Not 24/7]
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Dead-Archive",Сити Эдем Бирма Play [Not 24/7]
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Dead-Archive",Сити Эдем Киноазия [Not 24/7]
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Dead-Archive",Сити Эдем Киноарт [Not 24/7]
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Dead-Archive",Сити Эдем Кинодетектив [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Dead-Archive",Сити Эдем Кинодок [Not 24/7]
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Dead-Archive",Сити Эдем Кинодрама [Not 24/7]
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Dead-Archive",Сити Эдем Киноклассика [Not 24/7]
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Dead-Archive",Сити Эдем Кинокомедия [Not 24/7]
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Dead-Archive",Сити Эдем Киномистика [Not 24/7]
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Dead-Archive",Сити Эдем Кинофантастика [Not 24/7]
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Dead-Archive",Сити Эдем Киноэкшен [Not 24/7]
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Dead-Archive",Сити Эдем Классическая Музыка [Not 24/7]
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Dead-Archive",Сити Эдем Медздрав [Not 24/7]
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Dead-Archive",Сити Эдем Рецепты Гурмана [Not 24/7]
-https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Dead-Archive",Сити Эдем Сиртаки Тв [Not 24/7]
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="Dead-Archive",Сити Эдем Тв Христианский [Not 24/7]
-https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="Dead-Archive",Радио Говорит Москва (Вебкамера) (720P)
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png" group-title="Dead-Archive",Твк 24 (576P)
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",内蒙古卫视 (576P)
@@ -8335,6 +8283,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",安徽 Ⅰ 郎溪综合台 (1080P)
 http://117.70.93.210:1935/live/xinwen/playlist.m3u8
+#EXTINF:-1 group-title="Dead-Archive",家有购物 (720P) [Not 24/7]
+http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw
 #EXTINF:-1 group-title="Dead-Archive",宿州公共 (1080P) [Not 24/7]
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",宿州新闻综合 (1080P) [Not 24/7]
@@ -8365,10 +8315,16 @@ http://111.17.214.4:1935/live/xtzh/playlist.m3u8
 http://111.17.214.4:1935/live/xtxc/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",新疆卫视 (576P)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="Dead-Archive",新疆卫视 (576P)
+http://183.207.248.71/gitv/live1/G_XINJIANG/G_XINJIANG
 #EXTINF:-1 group-title="Dead-Archive",欧美大片1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="Dead-Archive",欧美大片2
 http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" group-title="Dead-Archive",江苏城市 (576P)
+http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="Dead-Archive",江苏综艺 (576P) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrLthH3.png" group-title="Dead-Archive",江西卫视 (1080P)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NFFQNhq.png" group-title="Dead-Archive",浙江卫视 (1080P)
@@ -8417,8 +8373,10 @@ https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jYSXaga.png" group-title="Dead-Archive",Chch
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" group-title="Dead-Archive",Prima Krimi
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Dead-Archive",Tn
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" group-title="Dead-Archive",Prima Zoom
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="Dead-Archive",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Dead-Archive",Ert Sports 1
@@ -8431,8 +8389,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="Dead-Archive",Ert Kids Ⓖ
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mHCk05E.png" group-title="Dead-Archive",Euro
-https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="Dead-Archive",Trt
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHgaPCk.png" group-title="Dead-Archive",Gyöngyös Tv
@@ -8449,8 +8405,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0izeu5z.png" group-title="Dead-Archive",Alhurra
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" group-title="Dead-Archive",Dublin'S Q102
-https://wg.cdn.tibus.net/q102MP3128
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Dead-Archive",Rai 1 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="Dead-Archive",Rai 2 Ⓖ
@@ -8475,6 +8429,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y1zIAe.png" group-title="Dead-Archive",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Dead-Archive",Rai News 24 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="Dead-Archive",Rai Storia Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Dead-Archive",Rai Scuola Ⓖ
@@ -9145,6 +9101,8 @@ http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="Dead-Archive",210Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="Dead-Archive",Radio Foorti (880)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cyq72fl6gi22ztg/89.6.png?raw=1" group-title="Dead-Archive",Radio Today (896)
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Dead-Archive",Jalsha Movies
@@ -9461,8 +9419,6 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Dead-Archive",Alpona Tv
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/I7FEy13Menc/maxresdefault.jpg" group-title="Dead-Archive",Ayna Tv
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="Dead-Archive",Bangla 21
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg" group-title="Dead-Archive",Biswa Bangla 24
@@ -9577,8 +9533,6 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Itv Iptv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Ayna Iptv
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Probasi Bangla
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Youth Bangla Tv
@@ -10353,6 +10307,8 @@ https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAebu4q.png" group-title="Dead-Archive",Channel 200 (540P)
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="Dead-Archive",Channels Tv
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/960px-CHCH2010.svg.png" group-title="Dead-Archive",Chchdt (720P)
 http://185.246.209.113/CHCHHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlVZa7N.png" group-title="Dead-Archive",Color Blind Tv (1080P)
@@ -10503,8 +10459,6 @@ http://92.114.85.72:8000/play/a0bi
 http://92.114.85.72:8000/play/a0bj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="Dead-Archive",Uvagut Tv (1080P)
 https://hls.uvagut.tv/hls/uvagut/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="Dead-Archive",Vasantham [Geoblocked]
-https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQr4IX4.jpeg" group-title="Dead-Archive",Vibes Media (480P)
 https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xm4KBwE.png" group-title="Dead-Archive",Wairarapa Tv (1080P) [Not 24/7]
@@ -10517,6 +10471,8 @@ https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as
 https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDDM5hP.png" group-title="Dead-Archive",Xtv (720P)
 https://streamer2.nexgen.bz/02-KREM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="Dead-Archive",Утрк Спорт (480P) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Dead-Archive",2M Monde (360P)
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQvLPT1.png" group-title="Dead-Archive",3Cat Exclusiu 1 (1080P) [Geoblocked]
@@ -10665,12 +10621,6 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Dead-Archive",Band Sports (1080P)
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="Dead-Archive",Bandnews (1080P)
-https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpS2PpS.png" group-title="Dead-Archive",Bang Bang (480P)
-https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_004&playlist_template=nginx&profile_id=1&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783&video_id=16377
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="Dead-Archive",Bayon Tv
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="Dead-Archive",Bbc Alba (1080P) (Hevc) [Geoblocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ktasO33.png" group-title="Dead-Archive",Bdncom (1080P)
@@ -10765,6 +10715,8 @@ https://live.cn51hn.com/live/cn51.m3u8
 https://tv.picta.cu/clave/clave_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Dead-Archive",Canal Do Criador (1080P)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huBxZpP.png" group-title="Dead-Archive",Canal Educativo (480P) [Not 24/7]
+https://tv.picta.cu/educativo/educativo_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOl3H5X.png" group-title="Dead-Archive",Canal Educativo 2 (480P) [Not 24/7]
 https://tv.picta.cu/educativo2/educativo2_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0EUc52w.png" group-title="Dead-Archive",Canal Habana (480P) [Not 24/7]
@@ -10799,8 +10751,6 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Dead-Archive",Claro Sports (720P)
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Dead-Archive",Cna (360P) [Not 24/7]
-https://live.creacast.com/cna/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4uG8HsQ.png" group-title="Dead-Archive",Cnd Film Middle School Channel
 http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Dead-Archive",Combate (720P)
@@ -10841,8 +10791,6 @@ https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dfb Play Tv (720P) [Geoblocked]
 https://pb-95uwccjrn7kxl.akamaized.net/dfbtv.m3u8
-#EXTINF:-1 tvg-logo="https://dialogolarededucativa.com/wp-content/uploads/2024/02/cropped-cropped-314708081_105832265676231_8790041320160213071_n.jpg" group-title="Dead-Archive",Dialogo La Red Educativa (720P)
-https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Dead-Archive",Digital 15 (1080P)
 https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Dead-Archive",Disney Channel
@@ -10861,8 +10809,6 @@ https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
 https://amg07653-apmc-amg07653c4-samsung-gb-9942.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg07653-aparentmediacoinc-dudeperfectchannel-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" group-title="Dead-Archive",Dy 365 (360P)
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Dead-Archive",Ebenezer Tv (1080P)
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgabVFd.png" group-title="Dead-Archive",Ecclesia Tv
 https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPogWAG.png" group-title="Dead-Archive",Echo24 (720P)
@@ -10957,6 +10903,8 @@ https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="Dead-Archive",Gem Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="Dead-Archive",Gem Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="Dead-Archive",Gem Tv
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" group-title="Dead-Archive",Gem Tv Plus
@@ -10999,8 +10947,6 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" group-title="Dead-Archive",Ici Radiocanada Télé Terreneuveetlabrador (Cbaftdt) [Geoblocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="Dead-Archive",Iltv (720P)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="Dead-Archive",Indigenous Television (720P)
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Dead-Archive",Indigenous Tv (720P)
@@ -11237,6 +11183,8 @@ https://de1.dstv.cx/PrvaLife/index.m3u8
 https://de1.dstv.cx/PrvaMax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlenHxZ.png" group-title="Dead-Archive",Prva Plus (1080P)
 https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuh1vzj.png" group-title="Dead-Archive",Prva World (1080P)
+https://de1.dstv.cx/PrvaWorld/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="Dead-Archive",Ptv Córdoba (1080P)
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOcAakM.png" group-title="Dead-Archive",Ptv Granada (720P)
@@ -11341,8 +11289,6 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="Dead-Archive",Sbs Knn (1080P) [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="Dead-Archive",Sctv1 (1080P) [Geoblocked]
-https://javiptv.s.gy/iptv-m3u-sctv-vn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="Dead-Archive",Sctv2 (720P)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYLs4yu.png" group-title="Dead-Archive",Sctv5 (720P)
@@ -11457,14 +11403,12 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aadWnIx.jpg" group-title="Dead-Archive",Trivision 36 (720P)
 https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Dead-Archive",Trt 1 (1440P)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Dead-Archive",Trt 2 (1440P) [Geoblocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Dead-Archive",Trt Cocuk (1440P)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg" group-title="Dead-Archive",Tudn B 1080 🇲🇽 Mexico
 https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Dead-Archive",Tudn (1080P) [Geoblocked]
+https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/960px-TV3.svg.png" group-title="Dead-Archive",Tv3 (1080P) [Geoblocked]
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="Dead-Archive",Tv3Cat (1080P) [Geoblocked]
@@ -11531,8 +11475,6 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Dead-Archive",Tvone Nicaragua (720P) [Not 24/7]
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="Dead-Archive",Tvp Dokument (1080P) [Not 24/7]
-https://tvpi.travny.workers.dev/tvpdokument.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="Dead-Archive",Tvp Historia
 https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="Dead-Archive",Tvs (576P) [Geoblocked]
@@ -11627,14 +11569,20 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="Dead-Archive",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png" group-title="Dead-Archive",Утрк (480P) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBPmUQA.png" group-title="Dead-Archive",Утрк Алатоо 24 (480P) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5ylCiX.png" group-title="Dead-Archive",Утрк Баластан (480P) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Dead-Archive",Утрк Музыка (480P) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/%D0%A5%D0%BE%D1%87%D1%83_%D0%B2%D1%81%D1%91_%D0%B7%D0%BD%D0%B0%D1%82%D1%8C.svg" group-title="Dead-Archive",Хочу Всё Знать (576P)
 https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvFwczN.png" group-title="Dead-Archive",Шаян Тв (Татарстан) (1080P)
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",华数 (720P) [Not 24/7]
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 group-title="Dead-Archive",南阳新闻 (1080P) [Not 24/7]
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 group-title="Dead-Archive",南陽公共頻道 (1080P) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 #EXTINF:-1 group-title="Dead-Archive",南陽科教頻道 (1080P) [Not 24/7]
@@ -11663,6 +11611,8 @@ http://livealone302.iqilu.com/iqilu/shpd.m3u8
 http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9wNMmm.png" group-title="Dead-Archive",山东齐鲁 (1080P) [Geoblocked]
 http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+#EXTINF:-1 group-title="Dead-Archive",漳州新闻综合 (720P) [Not 24/7]
+https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="Dead-Archive",甘肃公共 (540P) [Not 24/7]
 https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 #EXTINF:-1 group-title="Dead-Archive",甘肃移动 (540P) [Not 24/7]
@@ -11693,6 +11643,10 @@ http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 #EXTINF:-1 group-title="Dead-Archive",长沙购物 [Geoblocked]
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
+#EXTINF:-1 group-title="Dead-Archive",隨州綜合 (720P) [Not 24/7]
+http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
+#EXTINF:-1 group-title="Dead-Archive",隨州農村 (720P) [Not 24/7]
+http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aObcudw.png" group-title="Dead-Archive",Abc News Albania Ⓣ
 https://www.twitch.tv/abcnewsal
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="Dead-Archive",Top News Ⓣ
@@ -11725,8 +11679,6 @@ http://109.205.166.68/server124/ictimai_tv/index.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/296px-Space_TV_loqosu_%282023-h.h.%29.png" group-title="Dead-Archive",Space Tv Ⓢ
 http://109.205.166.68/server124/space_tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="Dead-Archive",Radio Hit Orsk
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1GR8Szn.png" group-title="Dead-Archive",Tva Ⓖ
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="Dead-Archive",Télé Québec
@@ -11747,12 +11699,6 @@ https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BiSVmRa.png" group-title="Dead-Archive",Rtl Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" group-title="Dead-Archive",Nova Fun
-https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" group-title="Dead-Archive",Tn
-https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Dead-Archive",Prima
-https://sktv.mxnticek.eu/new/stream.php?ch=Prima
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEq8UnG.png" group-title="Dead-Archive",Dr1 Ⓖ
 https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b79UKYN.png" group-title="Dead-Archive",Dr2 Ⓖ
@@ -11857,6 +11803,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RApMW5x.png" group-title="Dead-Archive",Gambero Rosso
 https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Dead-Archive",Sportitalia Solocalcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="Dead-Archive",Rai 4K Ⓖ
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Dead-Archive",Equtv
@@ -11925,8 +11873,6 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="Dead-Archive",Informer Tv
 https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png" group-title="Dead-Archive",Joj Šport
-https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Dead-Archive",Divinity Ⓖ
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" group-title="Dead-Archive",Energy Ⓖ
@@ -12000,83 +11946,83 @@ https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="Dead-Archive",I24 News
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Dead-Archive",Star Sports 1
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=o5vUxYhfPHn05M1Jz306GQ&expires=1786564226
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=1C2TkW0TnaNDMrsHgP4UwA&expires=1786650617
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="Dead-Archive",Star Sports 1 Hindi
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=EMXSqneylgR2IJSwxGuTUg&expires=1786564227
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Wf5mZQikDHEmwaYi9gasfw&expires=1786650617
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Dead-Archive",Ptv Sports
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=Gm7aOsVp_BgSe9MyJiwDbw&expires=1786564227
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=6RM_inhZx33VX-Bw4KbSSg&expires=1786650617
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Dead-Archive",Willow Hd
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JhNQdElcZ0IhVQbsgdxPIA&expires=1786564227
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=lw0SnBc45cFjduJiqmsPNg&expires=1786650618
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Dead-Archive",Willow Hd 2
-https://cdn3.zohanayaan.com:1686/hls/willowextra.m3u8?md5=c_YZxcLa-jeZlTH1ozkatw&expires=1786564227
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=sGbL_f12a_lifmliMkAoCA&expires=1786650618
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Dead-Archive",Ten Sports
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=WsKmEDswuuTGzdD8y61f1Q&expires=1786564228
+https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=P13wcjAXrpREMyjrwEylFA&expires=1786650618
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Dead-Archive",A Sports Hd
-https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=VYaIm4pzu62-WmjYT6s2fw&expires=1786564228
+https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=e3QUypfF18-oaSSxYMJArQ&expires=1786650619
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Dead-Archive",Sky Sports Cricket
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NbVQXyuvNoqRtsp2QT8W_A&expires=1786564228
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=0XQT_8wd11nlKtClgJVptQ&expires=1786650619
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Dead-Archive",Sky Sports Main Event
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=kFtjlTkjmbHfWN6N3U5D7Q&expires=1786564228
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=ila11J2A9yGny_oA1yiqRg&expires=1786650619
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Dead-Archive",Tnt 1
-https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=N9T7YK3e7TB46hawzFPMUg&expires=1786564228
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=pUqXImprxM_Np7zuo1njFw&expires=1786650620
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Dead-Archive",Tnt 2
-https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=aBWkbKhQhLPTHLHkpWvoFA&expires=1786564228
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=Rshgp-tYtnxrXNjjXFX2Gw&expires=1786650620
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Dead-Archive",Tnt 3
-https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=Q2CTgDL-4lADAG6VT_RH7Q&expires=1786564229
+https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=YSfHa0rN-8a9R-87Hjk7Uw&expires=1786650620
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Dead-Archive",Tnt 4
-https://cdn10.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=qkI9vhMlO-w6Sg3FpMeo2A&expires=1786564229
+https://cdn9.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=MQ-lM-5wJk2DrXf9WQPwGw&expires=1786650620
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 1
-https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=Zz2CD0Ud2U6gQVjPwzBd3w&expires=1786564229
+https://cdn7.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=FkKYA_pT7Mvcq6qmq4FBog&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 2
-https://cdn10.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=PLEN7noZ7AKTAq2YatJx9A&expires=1786564229
+https://cdn7.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=sAdEux6Vg84t-UN1wQgrXw&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 3
-https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=UCauhvlIEWT6syMwpWtqcg&expires=1786564230
+https://cdn5.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=aUNSO_DuufLz-QKyTOIXNQ&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 4
-https://cdn2.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=_DSimefQOqztk-yA1P6mrg&expires=1786564230
+https://cdn4.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=TJKm8wAys_TvCY0R0wIOhA&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 5
-https://cdn1.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=tQhlAPks4T5jFJf-WA6-sA&expires=1786564230
+https://cdn10.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=jFBvqL0vfENQOj6A0FoKug&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport 6 Nz
-https://cdn1.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=lkXVXST4cYgNgLZclIdclQ&expires=1786564230
+https://cdn8.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=3BDea4SjXxd8Fw6T9yxZOA&expires=1786650621
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 7
-https://cdn8.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=WXE49DDRaHbj7MXm1oPCBQ&expires=1786564230
+https://cdn6.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=05eJtV8NYNdpHRY7_RvlKA&expires=1786650622
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 8
-https://cdn2.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=JdKM6Yt_awh_YW0PhGF9XQ&expires=1786564231
+https://cdn5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=qKS2MWG_JDFrsm-BSJ2ZtA&expires=1786650622
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Dead-Archive",Sky Sport Nz 9
-https://cdn4.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=wp8-p6KHy-iCvk2_PiEG6w&expires=1786564231
+https://cdn5.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=OOg5Y3SROXCZECeG9jV4gw&expires=1786650622
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Dead-Archive",Sky Sports Action
-https://cdn9.zohanayaan.com:1686/hls/skysact.m3u8?md5=NzzNDg76l7We89FDjSmPvQ&expires=1786564231
+https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=NPvGZnPAh9D8m9miCL39TA&expires=1786650623
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Dead-Archive",Sky Sports Golf
-https://cdn10.zohanayaan.com:1686/hls/skysgol.m3u8?md5=mRugapmMs4bBU3LZ6rJIsA&expires=1786564231
+https://cdn3.zohanayaan.com:1686/hls/skysgol.m3u8?md5=84upwF0ePueyqFwee33rwA&expires=1786650623
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Dead-Archive",Sky Sports Premier League
-https://cdn3.zohanayaan.com:1686/hls/skysprem.m3u8?md5=Rtoy2mFKRZa3Dgdq_kiFsg&expires=1786564231
+https://cdn1.zohanayaan.com:1686/hls/skysprem.m3u8?md5=05-QLsti-0p11iXSo0UIoQ&expires=1786650623
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Dead-Archive",Sky Sports Football
-https://cdn1.zohanayaan.com:1686/hls/skysfott.m3u8?md5=RVth9kl0ySnz_zXs-o-bJA&expires=1786564231
+https://cdn10.zohanayaan.com:1686/hls/skysfott.m3u8?md5=bpuvjQ2r9eGBkro17h1TTw&expires=1786650623
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Dead-Archive",Sky Sports Plus
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=AZdEXh26RfsMWyaoRKsP-A&expires=1786564232
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=s0k0T_r4KwpvuKcT96rVwQ&expires=1786650623
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Dead-Archive",Sky Sports F1
-https://cdn7.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=uM9OTJBQb365vU2sP-tkJw&expires=1786564232
+https://cdn10.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=EeHX7TeRzom_yk8qnRx9eA&expires=1786650624
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="Dead-Archive",Laliga
-https://cdn7.zohanayaan.com:1686/hls/laligauk.m3u8?md5=oZvkJPz9fbIn2xYB2pZcUA&expires=1786564232
+https://cdn2.zohanayaan.com:1686/hls/laligauk.m3u8?md5=P6GUkLPGLyCYXm32Qp14oA&expires=1786650624
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Dead-Archive",Premier Sports 1
-https://cdn3.zohanayaan.com:1686/hls/premieruk.m3u8?md5=dJopTTd-Z5_nJDTqYMk0SA&expires=1786564232
+https://cdn8.zohanayaan.com:1686/hls/premieruk.m3u8?md5=9IB8Fnom-yT6h4rqmcWg8A&expires=1786650624
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Dead-Archive",Premier Sports 2
-https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Sj_lbl4U2CoXKUv-R-1O3Q&expires=1786564232
+https://cdn7.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=mE9H8707s9p1lzk33yQ-rQ&expires=1786650624
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Dead-Archive",Super Football
-https://cdn8.zohanayaan.com:1686/hls/superfotball.m3u8?md5=oAz3pZOb44PO1QJNZ4j8SQ&expires=1786564232
+https://cdn9.zohanayaan.com:1686/hls/superfotball.m3u8?md5=M4DopsY8YZwYN4VZqi9luw&expires=1786650625
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Dead-Archive",Super Premier League
-https://cdn3.zohanayaan.com:1686/hls/superpremier.m3u8?md5=1tHBsMTexNDQZ_mVaR-eww&expires=1786564232
+https://cdn9.zohanayaan.com:1686/hls/superpremier.m3u8?md5=nt3IiuaEUYTsiwfv-nJxJw&expires=1786650625
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="Dead-Archive",Astro Cricket
-https://cdn7.zohanayaan.com:1686/hls/fox501.m3u8?md5=jQYIhgt3nvhvSDHTWJZUCA&expires=1786564232
+https://cdn8.zohanayaan.com:1686/hls/fox501.m3u8?md5=k6iwcik06VPO63Sp71SHxw&expires=1786650625
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Dead-Archive",Espn 1
-https://cdn9.zohanayaan.com:1686/hls/espnusa.m3u8?md5=JA8huD0u24Z2rn5-ZP3dcw&expires=1786564232
+https://cdn4.zohanayaan.com:1686/hls/espnusa.m3u8?md5=3k3wSih74fmOHxvMiHGALQ&expires=1786650625
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Dead-Archive",Espn 2
-https://cdn1.zohanayaan.com:1686/hls/espn2.m3u8?md5=iunxxPEi4bQmUYUPktoF3g&expires=1786564233
+https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=RwtiI_vDrOivhGoEM8uJLg&expires=1786650625
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="Dead-Archive",Sky Sports Mix
-https://cdn3.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=rYqszBwc1QH_iRIXDNp4Pw&expires=1786564233
+https://cdn2.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=6YPw92xEkTkLPzw0hee3ig&expires=1786650626
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="Dead-Archive",Sky Sports Tennis
-https://cdn6.zohanayaan.com:1686/hls/skystennis.m3u8?md5=47XhhfzTt8vHxgffX31alA&expires=1786564233
+https://cdn5.zohanayaan.com:1686/hls/skystennis.m3u8?md5=u6CxW2hnZ0S-E3BSgYK2Rg&expires=1786650626
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Dead-Archive",Sony Sports3
-https://cdn2.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=iu0eXSZOqEBy6nuByRiL5A&expires=1786564233
+https://cdn3.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=RJG2TKyWzJu17BaJuPSUFQ&expires=1786650626
 #EXTINF:-1 group-title="Dead-Archive",%C%0%2%7! %4%3%2%1O%B 2Hd
 http://193.25.8.59:8000/fut2
 #EXTINF:-1 group-title="Dead-Archive",%C%0%2%7!
@@ -12131,6 +12077,8 @@ https://sktv.plainrock127.xyz/get.php?x=TA3
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg" group-title="Dead-Archive",Zoom
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
+#EXTINF:-1 tvg-logo="https://news.banglaone.tv/storage/logos/r2PeJQRkKVBJNHuA1uABtMFat3ZFlXm4ojTt5SWI.png" group-title="Dead-Archive",Bangla One
+https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="Dead-Archive",40Itv Bangla
 http://str24.l9574.com/512.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Dead-Archive",66Discovery Hd Russia
@@ -12467,8 +12415,6 @@ https://live1.presstv.com/live/ifilmen.m3u8
 https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" group-title="Dead-Archive",Ifilm Persian 2
 https://live1.presstv.com/live/ifilm2.m3u8
-#EXTINF:-1 group-title="Dead-Archive",Стрк Hd
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/CukEOZYJfm.png" group-title="Dead-Archive",&Tv Hd
 https://botallen.live/t/40/master.m3u8?signature=d53b023bca47b6a945f053532abedea052fbdfe7&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png" group-title="Dead-Archive",Colors Hd
@@ -12553,6 +12499,8 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 https://botallen.live/z/0-9-219/master.m3u8?signature=f2631b3963e2104d42dce4ca142852d23f503020&unique=a3ea5fcf33888593d48cf58ec9420922
 #EXTINF:-1 group-title="Dead-Archive",Zing (2)
 http://z5amshls.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Dhaka Fm
+http://118.179.219.244:8000/
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="Dead-Archive",Saraha
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="Dead-Archive",Fox
@@ -12953,6 +12901,8 @@ http://149.71.34.166:8002/play/a012/index.m3u8
 http://149.71.34.166:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E8VwnK7.png" group-title="Dead-Archive",Ion Tv (576P)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Dead-Archive",Star Sports Select 1 Hd (720P)
+http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="Dead-Archive",Zee 24 Ghanta (576P)
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/im3g7T2.png" group-title="Dead-Archive",3 Stones Tv (240P) [Not 24/7]
@@ -12969,6 +12919,8 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="Dead-Archive",Abc Australia (1080P)
 http://103.154.3.101:5001/live/2782.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Dead-Archive",Acc Network (720P)
+http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8pzEmcJ.jpeg" group-title="Dead-Archive",Acw Ug Tv (480P)
 https://live.acwugtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://alabamaweathernetwork.com/wp-content/uploads/2025/07/bpt2ej6u.png" group-title="Dead-Archive",Alabama Weather Network (720P)
@@ -12987,6 +12939,8 @@ http://115.42.65.142:9981/stream/channelid/1273966657
 https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Dead-Archive",Asia Tv (720P)
 https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOM5qO6.png" group-title="Dead-Archive",Aspire (720P)
+http://40.160.24.56/ASPIRE_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOU9z5G.png" group-title="Dead-Archive",Aviation Tv (480P)
 http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="Dead-Archive",Bbc Kids (720P)
@@ -12995,20 +12949,34 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="Dead-Archive",Bbc News Uk Hd (1080P)
 http://45.153.96.44:8001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Dead-Archive",Bet (720P)
+http://40.160.24.56/BET_EAST_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="Dead-Archive",Bet Her (720P)
+http://40.160.24.56/BET_HER_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png" group-title="Dead-Archive",Bet Jams (720P)
+http://40.160.24.56/BET_JAMS_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeuTWUb.png" group-title="Dead-Archive",Bet Soul (720P)
+http://40.160.24.56/BET_SOUL_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Dead-Archive",Bet West (720P)
+http://40.160.24.56/BET_WEST_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png" group-title="Dead-Archive",Bnn Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Dead-Archive",Bravo (720P)
+http://40.160.24.56/BRAVO_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4r09woD.jpg" group-title="Dead-Archive",Btl Tv (720P) [Not 24/7]
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUvA2jf.png" group-title="Dead-Archive",Btm Tv (480P) [Not 24/7]
 https://btmug.zerocdn.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="Dead-Archive",Cspan (720P)
+http://40.160.24.56/C-SPAN_HD_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="Dead-Archive",Cspan 2 (720P)
+http://40.160.24.56/C-SPAN_2_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="Dead-Archive",Canaf54 Tv
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jeoulU.png" group-title="Dead-Archive",Caughtup Tv (480P) [Not 24/7]
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Dead-Archive",Cbs Sports Golazo Network (720P)
 https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="Dead-Archive",Channels Tv
-https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Dead-Archive",Cinevault 80S (720P)
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",City 41 (576P)
@@ -13023,14 +12991,14 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewHBokK.jpg" group-title="Dead-Archive",Cmtv Kenya (576P) [Not 24/7]
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Dead-Archive",Cnbc (720P)
+http://40.160.24.56/CNBC_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Dead-Archive",Coasttv Nbc (Wrdeld) (720P) [Not 24/7]
 https://live.field59.com/wrde/wrde1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dkpTHI9.png" group-title="Dead-Archive",Collier Television Ctv (Naples Fl) (720P)
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Dead-Archive",Comedy Dynamics (1080P)
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="Dead-Archive",Comedy Tv (720P)
-https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" group-title="Dead-Archive",Cpac (720P)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="Dead-Archive",Crime And Evidence (720P)
@@ -13087,16 +13055,22 @@ https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
 https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCB7u0e.png" group-title="Dead-Archive",Gnf Tv (576P)
 https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Dead-Archive",God Stands Kids Club Tv English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSCZW6L.png" group-title="Dead-Archive",Gtn Tv (1080P) [Not 24/7]
 https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XEakc6Q.png" group-title="Dead-Archive",Gugudde Tv (480P)
 https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="Dead-Archive",Hallmark Mystery (1080P)
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Dead-Archive",Hard Knocks (1080P)
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwnesmW.jpg" group-title="Dead-Archive",Heaven Bound Tv (480P) [Not 24/7]
 https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uIlU5im.jpg" group-title="Dead-Archive",His Grace Tv (480P) [Not 24/7]
 https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Dead-Archive",History (720P)
+http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Dead-Archive",History Tv18 Hd (1080P)
 http://103.154.3.101:5001/live/577.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPZoSXM.jpg" group-title="Dead-Archive",Hlc Tv (480P) [Not 24/7]
@@ -13139,6 +13113,8 @@ http://103.250.28.74:8000/play/a04m/index.m3u8
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ibsRhM.png" group-title="Dead-Archive",Lakewood Channel 8 (Lakewood Co) (720P)
 https://live8fd.lakewood.org/live-2/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05Xdqa6.png" group-title="Dead-Archive",Las Vegas Tonight With Dale Davidson (1080P)
+https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="Dead-Archive",Le Monde En 24H
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGxHhh.png" group-title="Dead-Archive",Legislative Assembly Of British Columbia
@@ -13185,8 +13161,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://atechgroupuk.site/ETV.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Dead-Archive",Movies Now Hd (1080P)
 http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="Dead-Archive",Msg Plus (720P)
-https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png" group-title="Dead-Archive",Ms Now (720P)
+http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Adhr5xq.png" group-title="Dead-Archive",Munnaaru
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjXfuSh.png" group-title="Dead-Archive",Mwangaza Tv (720P) [Not 24/7]
@@ -13199,10 +13175,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykQerMH.png" group-title="Dead-Archive",Nbc 1 [Not 24/7]
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="Dead-Archive",Nbc 8 Lima Oh (Wliodt1) (720P) [Not 24/7]
-https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lv1bUG5.png" group-title="Dead-Archive",Nesn (720P)
-https://gpuserver3.tier1streams.com/NESN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UawxLTW.jpg" group-title="Dead-Archive",Nice Tv Kenya (720P) [Not 24/7]
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Dead-Archive",Nicktoons
@@ -13241,8 +13213,6 @@ https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="Dead-Archive",Public News (1080P)
 http://103.250.28.74:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsTuADb.png" group-title="Dead-Archive",Qtv Gambia (720P) [Not 24/7]
-https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ATTIQi.png" group-title="Dead-Archive",Quest Tv (240P) [Not 24/7]
 https://media2.streambrothers.com:19360/8028/8028.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nc7X3Ux.png" group-title="Dead-Archive",Quran Tv (576P)
@@ -13277,6 +13247,10 @@ https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
 https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3lTIeN.png" group-title="Dead-Archive",Shine Star Tv (720P) [Not 24/7]
 https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Dead-Archive",Showtime (720P)
+http://40.160.24.55/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="Dead-Archive",Showtime 2 (1080P)
+http://40.160.24.55/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4Rv6pK.png" group-title="Dead-Archive",Silver Screen (576P)
 http://103.250.28.74:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Dead-Archive",Sindh Tv (1080P)
@@ -13305,8 +13279,6 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist
 http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFHKCbZ.png" group-title="Dead-Archive",The Bob Ross Channel (720P)
 https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F1c7x4.png" group-title="Dead-Archive",The Cowboy Channel (1080P)
-https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" group-title="Dead-Archive",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ioh5xbx.png" group-title="Dead-Archive",The Hill Tv (1080P) [Geoblocked]
@@ -13329,8 +13301,6 @@ http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 http://103.250.28.74:8000/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Dead-Archive",Tvcarib (720P) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Dead-Archive",Tve Internacional Europeasia Hd (1080P)
-https://siarlive.psce.pw/channel5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx76HUE.png" group-title="Dead-Archive",Tvnz 1 [Geoblocked]
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sV4dbH.png" group-title="Dead-Archive",Tvnz 2 [Geoblocked]
@@ -13345,6 +13315,8 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7xDXEt.jpg" group-title="Dead-Archive",Urejesho Tv Africa (360P) [Not 24/7]
 https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Dead-Archive",Usa Network (1080P)
+http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yN4e2up.png" group-title="Dead-Archive",Utv (240P) [Not 24/7]
 https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrRSj8q.png" group-title="Dead-Archive",Vallejo Community Access Television (Vcat) (Vallejo Ca) (480P)
@@ -13375,8 +13347,6 @@ https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Dead-Archive",Zee Bollymovies Australia (1080P) [Geoblocked]
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="Dead-Archive",Утрк Спорт (480P) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="Dead-Archive",5 Plus (720P)
 https://mmtvs.exliatycl.online/5plus/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpCwqUF.png" group-title="Dead-Archive",7Tv (576P)
@@ -13449,6 +13419,8 @@ https://live.alissahost.net/hls/test.m3u8
 https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="Dead-Archive",Alnaeem Tv
 http://37.238.136.61/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WQKYPKD.png" group-title="Dead-Archive",Alalam News Channel Syria (1080P)
+http://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Alberto Sordi & Co (720P)
 https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/veeuqS1.png" group-title="Dead-Archive",Alcance Tv (720P)
@@ -13467,8 +13439,6 @@ https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Dead-Archive",Altenburg Tv (1080P)
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="Dead-Archive",Amaga Television (720P)
-https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="Dead-Archive",Amedia 2 (576P)
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Dead-Archive",Amedia Premium (720P)
@@ -13479,8 +13449,6 @@ http://46.32.176.50/anitv/index.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Dead-Archive",Anime Vision Classics (1080P)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Dead-Archive",Antares Televisión (720P) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sf0bA4P.png" group-title="Dead-Archive",Antenna Sud (720P)
 https://live.antennasudwebtv.it:9443/hls/vod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kiCcHzc.png" group-title="Dead-Archive",Antenna Sud Extra (720P)
@@ -13489,6 +13457,8 @@ https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="Dead-Archive",Antenne Vorarlberg (720P) [Not 24/7]
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Dead-Archive",Anzoátegui Tv (360P) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lfco9ht.png" group-title="Dead-Archive",Aqui No Hay Quien Viva [Geoblocked]
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4sGDc4X.jpg" group-title="Dead-Archive",Árbol De Vida Tv (240P) [Not 24/7]
@@ -13517,6 +13487,8 @@ http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtCgtZq.jpg" group-title="Dead-Archive",Audaz Tv (432P) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" group-title="Dead-Archive",Aupur Television (1080P)
+https://canal.aupurtv.co/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jMM4TQ.png" group-title="Dead-Archive",Aviva Tv (288P) [Not 24/7]
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqkABWT.png" group-title="Dead-Archive",Avt Khyber (1080P)
@@ -13549,8 +13521,14 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdRvy87.png" group-title="Dead-Archive",Bambarbia Tv (720P) [Not 24/7]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="Dead-Archive",Bandnews (1080P)
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png" group-title="Dead-Archive",Barinas Tv (720P) [Not 24/7]
 https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="Dead-Archive",Bayon Tv
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="Dead-Archive",Bayres Tv (720P)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png" group-title="Dead-Archive",Bd Televisión (720P)
 https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Beijing Youth Radio [Geoblocked]
@@ -13561,6 +13539,8 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="Dead-Archive",Belarus3 Hd (1080P) [Not 24/7]
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="Dead-Archive",Belros (720P)
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYy4n0N.png" group-title="Dead-Archive",Bénin Web Tv (720P)
 https://stream.beninwebtv.bj/2/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Dead-Archive",Beyaz Tv (720P) [Not 24/7]
@@ -13599,6 +13579,8 @@ https://bst.buin.cl/0.m3u8
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="Dead-Archive",Cabo Frio Tv (720P)
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Dead-Archive",Cadena Elite (720P) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="Dead-Archive",Cần Thơ Tv3 (1080P)
 https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Dead-Archive",Canal 1 (1080P) [Geoblocked]
@@ -13663,14 +13645,14 @@ https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRYsbjX.png" group-title="Dead-Archive",Canal 74 San Antonio
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Dead-Archive",Canal 79 La Costa (240P)
+https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUq3NlG.png" group-title="Dead-Archive",Canal Cvisión (720P) [Not 24/7]
 https://stream.cvision.live/cvision_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="Dead-Archive",Canal Del Congreso 451
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Dead-Archive",Canal Do Inter (720P) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/huBxZpP.png" group-title="Dead-Archive",Canal Educativo (480P) [Not 24/7]
-https://tv.picta.cu/educativo/educativo_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="Dead-Archive",Canal Extremadura (576P) [Not 24/7]
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x3Vdz6h/Screenshot-20231202-125205.jpg" group-title="Dead-Archive",Canal Iglesia Luz Y Verdad (1080P)
@@ -13695,8 +13677,6 @@ https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiszuLl.png" group-title="Dead-Archive",Canal Visof (720P)
 https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" group-title="Dead-Archive",Canal Womtv (720P)
-https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Dead-Archive",Canal+ Sport 360
 https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ap4FmYb.png" group-title="Dead-Archive",Canalcosta (1080P)
@@ -13769,16 +13749,16 @@ http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Cine Aliens (720P)
 https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Dead-Archive",Cinelatino (720P)
+http://45.162.193.35/CINELATINO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XuDlweg.png" group-title="Dead-Archive",Cinemaraton Moldova
 https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="Dead-Archive",Cnc Tulua (1080P)
-https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="Dead-Archive",Cinerama Television (720P)
+https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cfdGKv/1630802325205.jpg" group-title="Dead-Archive",Cnm Tv (720P) [Not 24/7]
 https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Cnv/Montreal
 https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Dead-Archive",Codigo Tv (1080P) [Not 24/7]
-https://edge.essastream.com/codigotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" group-title="Dead-Archive",Colors Cineplex (576P)
 http://103.122.249.134:8000/play/a058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="Dead-Archive",Comedy Tv
@@ -13789,8 +13769,6 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Congo Planet Télévision Pop (1080P) [Not 24/7]
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="Dead-Archive",Contivision (720P)
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Cool Summer Channel (720P)
 https://d2hzqddebd4oer.cloudfront.net/csts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVkRBg5.png" group-title="Dead-Archive",Corts Valencianes (480P) [Not 24/7]
@@ -13825,6 +13803,8 @@ http://103.213.31.109:90/DDBharati/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkzlRED.jpg" group-title="Dead-Archive",Den Haag Tv (1080P) [Not 24/7]
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="Dead-Archive",Dena
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="Dead-Archive",Dens Food Channel [Geoblocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="Dead-Archive",Dens Learning & Knowledge [Geoblocked]
@@ -13835,6 +13815,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="Dead-Archive",Dens Showbiz [Geoblocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzsASl.png" group-title="Dead-Archive",Diadora Tv
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dialogolarededucativa.com/wp-content/uploads/2024/02/cropped-cropped-314708081_105832265676231_8790041320160213071_n.jpg" group-title="Dead-Archive",Dialogo La Red Educativa (720P)
+https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJCGWKr.png" group-title="Dead-Archive",Diferencia Radio Tv
 https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13MverN.png" group-title="Dead-Archive",Dion Tv (1080P)
@@ -13843,12 +13827,14 @@ https://rtmp.win:3650/live/diontvlive.m3u8
 https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="Dead-Archive",Dnews (720P)
 http://38.19.16.151:8000/play/a0a3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTcGJZ.png" group-title="Dead-Archive",Dnj Tv (720P)
+https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLq9eFa.png" group-title="Dead-Archive",Dodoma Tv (360P) [Not 24/7]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Donut (1080P)
 https://d274b7i6eihzn5.cloudfront.net/do.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="Dead-Archive",Dragon Tv International (480P) [Geoblocked]
 https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Dead-Archive",Dreikotv (720P) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dsports (Opción 10)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="Dead-Archive",Duende Tv (720P) [Not 24/7]
@@ -13859,8 +13845,6 @@ https://cloudvideo.servers10.com:8081/8074/index.m3u8
 https://live.teleradiocom.tj/7/3m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e36BNNK.jpg" group-title="Dead-Archive",Dynamic Gospel Tv (480P) [Not 24/7]
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Dead-Archive",E! Latin America (1080P)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="Dead-Archive",Ebc Financial News (東森財經新聞台) (1080P) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Dead-Archive",Ebc News (東森新聞台) (1080P) [Not 24/7]
@@ -13915,14 +13899,14 @@ http://31.148.48.15/Fan/index.m3u8
 https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYjQOfo.jpeg" group-title="Dead-Archive",Farg'Ona Mtrk
 https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="Dead-Archive",Faros Tv2 (480P) [Geoblocked]
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkW3cKR.png" group-title="Dead-Archive",Fe Viviente (480P)
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Feva Music (1080P)
 https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=tnxM2v6NH4m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="Dead-Archive",Fibwi (1080P) [Not 24/7]
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42wImV2.png" group-title="Dead-Archive",Fiesta Tv
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Filmrise Hot Ones (720P)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Dead-Archive",Finest Tv (288P) [Not 24/7]
@@ -13961,12 +13945,8 @@ https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="Dead-Archive",Gds Tv
 http://31.146.5.178:8087/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" group-title="Dead-Archive",Gem Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUiIC8E.png" group-title="Dead-Archive",Génesis Tv (768P) [Not 24/7]
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Dead-Archive",Gi Television (720P) [Not 24/7]
-https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5K5Uwh.png" group-title="Dead-Archive",Git (720P)
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hzM9D9L.jpg" group-title="Dead-Archive",Globaltv (480P) [Not 24/7]
@@ -13983,6 +13963,10 @@ https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="Dead-Archive",Gnt (1080P)
 http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Dead-Archive",Gold Tv (576P)
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Dead-Archive",Gold Tv Sat (576P)
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Dead-Archive",Goldmines Movies (720P)
 http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeK6Pzb.png" group-title="Dead-Archive",Gólya Tv (480P) [Geoblocked]
@@ -14021,12 +14005,16 @@ https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-de
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbCrZG9/hq-hln.png" group-title="Dead-Archive",Hln (720P)
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Dead-Archive",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="Dead-Archive",Hola! Tv Latin America (1080P)
 http://8.243.126.131:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1j7cT2I.png" group-title="Dead-Archive",Hollywood Hd (1080P)
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="Dead-Archive",Hope Channel German (1080P)
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="Dead-Archive",Htv Key (1080P)
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fo2DV70.png" group-title="Dead-Archive",Huasco Televisión (360P)
 https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hEnpvKj.png" group-title="Dead-Archive",Huelva Tv (720P)
@@ -14177,6 +14165,8 @@ https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
 https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OBuiCyb.png" group-title="Dead-Archive",Legislative Assembly Of El Salvador (1080P) [Not 24/7]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Dead-Archive",Leomax 24 (1080P)
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/liangshantv.jpg" group-title="Dead-Archive",Liangshan Tv [Not 24/7]
 http://118.122.2.29:9999/hls/47/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Life Minute (720P)
@@ -14225,6 +14215,8 @@ http://103.250.28.74:8000/play/a02x/index.m3u8
 http://103.250.28.74:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Dead-Archive",Match! Strana (720P)
 http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMZRVL5.jpeg" group-title="Dead-Archive",Maxima Tv
+https://maximatv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209851.png" group-title="Dead-Archive",Maxtv [Not 24/7]
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png" group-title="Dead-Archive",Maya Tv (480P) [Not 24/7]
@@ -14257,6 +14249,8 @@ http://103.250.28.74:8000/play/a04u/index.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Dead-Archive",Mgstv (360P) [Not 24/7]
 https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vdc1GYP.jpg" group-title="Dead-Archive",Mierschtv (1080P)
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png" group-title="Dead-Archive",Minfav Tv
 https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="Dead-Archive",Mírame Tv (360P) [Not 24/7]
@@ -14287,6 +14281,16 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Dead-Archive",Mrtv (720P)
 https://asia.sipradius.net/cache/SEAGames4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Dead-Archive",Mrtv
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Dead-Archive",Mrtv Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Dead-Archive",Mrtv Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Dead-Archive",Mrtv News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Dead-Archive",Mrtv Nrc
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Dead-Archive",Msj Tv (1080P)
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCRZVVz/images-4.png" group-title="Dead-Archive",Mtm 1 [Geoblocked]
@@ -14323,6 +14327,8 @@ https://edge8.pink.rs/narodnatv/index.m3u8
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Naturaleza Salvaje (1080P) [Geoblocked]
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="Dead-Archive",Navarrete Television (1080P) [Not 24/7]
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qa4VlYh.png" group-title="Dead-Archive",Navoiy Mtrk (576I)
 https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="Dead-Archive",Ndtv India (720P)
@@ -14373,6 +14379,12 @@ https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrQnqId.png" group-title="Dead-Archive",Omroep Hulst Tv (720P) [Not 24/7]
 https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" group-title="Dead-Archive",On Kids (720P)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" group-title="Dead-Archive",On Life (720P)
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" group-title="Dead-Archive",On Movies (720P)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="Dead-Archive",Ondas Quevedeñas Tv (720P) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGHbkZU.png" group-title="Dead-Archive",One Nation Tv (720P) [Not 24/7]
@@ -14455,8 +14467,6 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dt7awY.jpeg" group-title="Dead-Archive",Proclamación Tv [Not 24/7]
 https://video2.getstreamhosting.com:19360/8000/8000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuh1vzj.png" group-title="Dead-Archive",Prva World (1080P)
-https://de1.dstv.cx/PrvaWorld/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Dead-Archive",Ptc Punjabi (720P)
 http://103.213.31.109:90/ActionCinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="Dead-Archive",Ptv News (1080P)
@@ -14495,6 +14505,10 @@ https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u
 https://radiomaria.inovanex.stream/stream.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Radio Radicale Tv (240P) [Not 24/7]
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzUc6je.png" group-title="Dead-Archive",Radio Rancagua Fm (720P)
+https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaJhBdj.png" group-title="Dead-Archive",Radio San Cristobal 887 Fm
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1MhvJ3B/logork.png" group-title="Dead-Archive",Radio Télé Kajou (480P) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQksC23/unnamed-1.jpg" group-title="Dead-Archive",Radio Télé Wisdom (360P) [Not 24/7]
@@ -14579,6 +14593,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="Dead-Archive",Rtp 2 (720P) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" group-title="Dead-Archive",Rtp Memória (504P) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="Dead-Archive",Rtrs Tv (576P) [Not 24/7]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jltAf5h.png" group-title="Dead-Archive",Rts 2 (1080P)
@@ -14633,8 +14649,6 @@ http://103.250.28.74:8000/play/a022/index.m3u8
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XJNGsv0/903784d2b8df3f29a43579b78d4341d3.png" group-title="Dead-Archive",San Ignacio Tv (720P)
 https://amixtv.live:3753/live/sitvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="Dead-Archive",Sangaji Tv (720P)
-https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" group-title="Dead-Archive",Sangeet Bhojpuri (1080P)
 http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Dead-Archive",Santa Cecilia Tv (1080P)
@@ -14679,6 +14693,8 @@ http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sZ3fEMi.png" group-title="Dead-Archive",Shraddha Tv (480P)
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="Dead-Archive",Sima Vision Tv (720P)
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4qKe18X.png" group-title="Dead-Archive",Siris Tv (720P)
 https://cdn.streammy.events/siris/playout/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Slime (576P) [Not 24/7]
@@ -14743,8 +14759,6 @@ https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="Dead-Archive",Stereo 5 Tv (720P)
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Dead-Archive",Streek Tv (720P) [Not 24/7]
-http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Dead-Archive",Sts Kids (1080P)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hCwH3s0.png" group-title="Dead-Archive",Suke Tv (720P)
@@ -14795,8 +14809,6 @@ https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="Dead-Archive",Tdm Sports Ch 93 (720P)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="Dead-Archive",Tdn Medios (720P) [Not 24/7]
-https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png" group-title="Dead-Archive",Tdv Tv (240P)
 https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbyLSc2.png" group-title="Dead-Archive",Teatro Tv (720P)
@@ -14849,6 +14861,8 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 http://45.5.119.43:4000/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Dead-Archive",Teleonuba (1080P)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Teleregione 118 (576P)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="Dead-Archive",Teleribera (720P) [Not 24/7]
 https://video1.lhdserver.es/teleribera/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3ZVcJ3.png" group-title="Dead-Archive",Telestense (720P)
@@ -14887,12 +14901,16 @@ http://69.64.57.208/tm1/playlist.m3u8
 https://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="Dead-Archive",Tnt Kids (288P)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="Dead-Archive",Tntv (1080P)
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="Dead-Archive",Tonghua Tv (1080P)
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" group-title="Dead-Archive",Top Crime [Geoblocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Torba Tv (720P) [Not 24/7]
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Dead-Archive",Tra Vinh Tv (1080P)
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="Dead-Archive",Trecevision (576P)
 http://45.5.119.43:4000/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xcw3TRB.png" group-title="Dead-Archive",Trentino Tv (720P) [Not 24/7]
@@ -14923,6 +14941,8 @@ https://tv7plus.com/hls/tv7_site.m3u8
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="Dead-Archive",Tv9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="Dead-Archive",Tv 10 San Juan (720P) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1byxRtp/tv15.png" group-title="Dead-Archive",Tv15 (1080P) [Not 24/7]
 http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IC1f4h3.png" group-title="Dead-Archive",Tv21 [Geoblocked]
@@ -14947,6 +14967,8 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 http://95.105.193.219:88/hls/tvb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/97xpqt0.png" group-title="Dead-Archive",Tv Budakalasz (1080P) [Not 24/7]
 https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sdou1Ab.png" group-title="Dead-Archive",Tv Câmara (1080P)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="Dead-Archive",Tv Câmara 2 (1080P) [Not 24/7]
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEXEzSx.png" group-title="Dead-Archive",Tv Câmara Salvador (288P) [Not 24/7]
@@ -15027,8 +15049,6 @@ http://95.105.193.219:88/hls/tvsen.m3u8
 http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsdUpB8.png" group-title="Dead-Archive",Tv Shenja [Geoblocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Dead-Archive",Tv Sim São Mateus (720P)
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2qz5a4.png" group-title="Dead-Archive",Tv Sinamo (1080P)
 https://live.teleradiocom.tj/6/3m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GB8fMoJ.png" group-title="Dead-Archive",Tv Skalica (540P)
@@ -15079,8 +15099,6 @@ https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/play
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="Dead-Archive",Tvm Internacional (480P) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="Dead-Archive",Tvm Para Ti (1080P)
-https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Dead-Archive",Tvmatic Comedy (720P)
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Dead-Archive",Tvmatic Crafts (720P)
@@ -15097,6 +15115,8 @@ http://cdn.tvmatic.net/tiktok.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Dead-Archive",Tvp1 (1080P)
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="Dead-Archive",Tvp Dokument (1080P) [Not 24/7]
+https://tvpi.travny.workers.dev/tvpdokument.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Dead-Archive",Tvr (Bretagne) (720P)
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="Dead-Archive",Tvr Moldova (720P) [Geoblocked] [Not 24/7]
@@ -15107,6 +15127,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bxtL6D.png" group-title="Dead-Archive",Tvrs (576P) [Not 24/7]
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Dead-Archive",Tvs (540P) [Not 24/7]
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="Dead-Archive",Tvt (720P) [Not 24/7]
 http://69.64.57.208/tvt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="Dead-Archive",Tvt Zgorzelec (576P) [Not 24/7]
@@ -15141,8 +15163,6 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Vathanam Tv
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Dead-Archive",Vcv (720P) [Not 24/7]
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sUkVOd.png" group-title="Dead-Archive",Ventdelnord Tv (404P)
 http://ventdelnord.tv:8080/hls/directe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Dead-Archive",Venus Media (1080P)
@@ -15151,6 +15171,8 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEKEaB4.png" group-title="Dead-Archive",Verbum Tv (480P) [Not 24/7]
 https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="Dead-Archive",Vertv (Vtv) (720P) [Not 24/7]
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png" group-title="Dead-Archive",Via X (720P)
 http://45.162.193.35/VIAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ua6rOXo.png" group-title="Dead-Archive",Viàatv (1080P) [Geoblocked]
@@ -15171,6 +15193,8 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Dead-Archive",Vio Tv (480P)
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="Dead-Archive",Visión Tv (720P)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0buXRa.jpeg" group-title="Dead-Archive",Viva Tv Canal 30 San Juan De Río Coco [Not 24/7]
 https://cdn.amixtv.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="Dead-Archive",Vivamóvil (720P)
@@ -15215,8 +15239,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="Dead-Archive",Wow Tv (1080P)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dcNzVNN.png" group-title="Dead-Archive",Xama Tv
-https://srs.unsj.edu.ar/live/xama/xama.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VLaQYn4.png" group-title="Dead-Archive",Xinjiang Tv 1
 https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="Dead-Archive",Yes
@@ -15225,8 +15247,6 @@ https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860e
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqlxU7t.png" group-title="Dead-Archive",Zee Nung (1080P) [Geoblocked]
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Dead-Archive",Zjarr Tv (360P)
-https://zjarr.future.al/hls/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Zona De Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="Dead-Archive",Zona Music Tv (1080P)
@@ -15303,14 +15323,14 @@ http://31.148.48.15/OTR/index.m3u8
 http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Dead-Archive",Первый Канал (1080P)
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" group-title="Dead-Archive",Первый Ярославский (1080P)
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfXoJIY.png" group-title="Dead-Archive",Пингвин (720P)
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNCpbII.png" group-title="Dead-Archive",Поехали! (1080P)
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gvgFoFB.png" group-title="Dead-Archive",Правдатут (720P)
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="Dead-Archive",Радио Говорит Москва (Вебкамера) (720P)
-https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RlsqFN8.png" group-title="Dead-Archive",Русский Иллюзион (576P)
 http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Dead-Archive",Русский Роман (1080P)
@@ -15321,8 +15341,44 @@ http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 http://31.148.48.15/Sankt_Peterburg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S2QJ3bc.png" group-title="Dead-Archive",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozEqob9.png" group-title="Dead-Archive",Сити Эдем Play Христианский Музыкальный [Not 24/7]
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Dead-Archive",Сити Эдем Автогид [Not 24/7]
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Dead-Archive",Сити Эдем Бирма Play [Not 24/7]
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Dead-Archive",Сити Эдем Киноазия [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Dead-Archive",Сити Эдем Киноарт [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Dead-Archive",Сити Эдем Кинодетектив [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Dead-Archive",Сити Эдем Кинодок [Not 24/7]
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Dead-Archive",Сити Эдем Кинодрама [Not 24/7]
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Dead-Archive",Сити Эдем Киноклассика [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Dead-Archive",Сити Эдем Кинокомедия [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Dead-Archive",Сити Эдем Киномистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoWOZMx.png" group-title="Dead-Archive",Сити Эдем Киносемья [Not 24/7]
 https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Dead-Archive",Сити Эдем Кинофантастика [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Dead-Archive",Сити Эдем Киноэкшен [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Dead-Archive",Сити Эдем Классическая Музыка [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Dead-Archive",Сити Эдем Медздрав [Not 24/7]
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wR0pvRc.png" group-title="Dead-Archive",Сити Эдем Рецепты Гурмана [Not 24/7]
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Dead-Archive",Сити Эдем Сиртаки Тв [Not 24/7]
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="Dead-Archive",Сити Эдем Тв Христианский [Not 24/7]
+https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Dead-Archive",Сити Эдем Теленовелла [Not 24/7]
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="Dead-Archive",Телепутешествия (576P)
@@ -15341,14 +15397,6 @@ http://46.46.112.223/live/livestream1.m3u8
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="Dead-Archive",Уникум (576P)
 http://31.148.48.15/Detskiy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png" group-title="Dead-Archive",Утрк (480P) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vBPmUQA.png" group-title="Dead-Archive",Утрк Алатоо 24 (480P) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D5ylCiX.png" group-title="Dead-Archive",Утрк Баластан (480P) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="Dead-Archive",Утрк Музыка (480P) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Dead-Archive",Феникс Плюс Кино (576P)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Dead-Archive",Футбол (720P)
@@ -15449,6 +15497,8 @@ http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
 http://221.5.213.4:30000/1111.m3u8
 #EXTINF:-1 group-title="Dead-Archive",南川旅游经济 (360P)
 http://221.5.213.4:30000/2222.m3u8
+#EXTINF:-1 group-title="Dead-Archive",南阳新闻 (1080P) [Not 24/7]
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 group-title="Dead-Archive",厦门卫视 (576P)
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",厦门卫视 (540P) [Not 24/7]
@@ -15495,8 +15545,6 @@ http://183.207.248.71/cntv/live1/wmyx/wmyx
 http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",家庭理财 (576P)
 http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8
-#EXTINF:-1 group-title="Dead-Archive",家有购物 (720P) [Not 24/7]
-http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw
 #EXTINF:-1 group-title="Dead-Archive",宿迁公共 (480P)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",少儿科教
@@ -15579,6 +15627,8 @@ http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 https://live.lyg1.com/ggpd/sd/live.m3u8
 #EXTINF:-1 group-title="Dead-Archive",江苏 Ⅰ 连云港综合 (480P) [Not 24/7]
 https://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jsty.jpg" group-title="Dead-Archive",江苏体育 (576P)
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jsgg.jpg" group-title="Dead-Archive",江苏公共 (576P)
 http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 #EXTINF:-1 group-title="Dead-Archive",江苏卫视 (1080P)
@@ -15587,8 +15637,6 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/inde
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jsjy.jpg" group-title="Dead-Archive",江苏教育 (576P)
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="Dead-Archive",江苏综艺 (576P) [Not 24/7]
-http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 group-title="Dead-Archive",河北公共
 http://121.19.134.246:808/hls/24/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",河北农民
@@ -15627,14 +15675,10 @@ http://live.cztv.cc:85/live/xwpd.m3u8
 http://60.30.52.41/live/bhtv1/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",滨海都市 (1080P)
 http://60.30.52.41/live/bhtv2/playlist.m3u8
-#EXTINF:-1 group-title="Dead-Archive",漳州新闻综合 (720P) [Not 24/7]
-https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="Dead-Archive",灵台新闻综合 (1080P)
 http://117.156.28.119/270000001111/1110000145/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",炫动卡通 (576P)
 http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dANSiug.png" group-title="Dead-Archive",甘肃卫视 (576P)
-http://118.81.195.79:9003/hls/25/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",生活 (576P)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",电白视窗 (576P) [Not 24/7]
@@ -15735,10 +15779,6 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",陕西卫视 (540P)
 http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8
-#EXTINF:-1 group-title="Dead-Archive",隨州綜合 (720P) [Not 24/7]
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
-#EXTINF:-1 group-title="Dead-Archive",隨州農村 (720P) [Not 24/7]
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
 #EXTINF:-1 group-title="Dead-Archive",霸州公共頻道 (576P) [Not 24/7]
 http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",霸州少兒頻道 (576P) [Not 24/7]
@@ -15765,8 +15805,6 @@ http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",黑龙卫视 (1080P)
 http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1 group-title="Dead-Archive",黑龙江卫 (1080P)
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="Dead-Archive",黑龙江卫视 (2160P)
 http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="Dead-Archive",Kanali 7 Ⓢ
@@ -15857,6 +15895,8 @@ http://95.46.208.8:26258/belarus4
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqRuEJd.png" group-title="Dead-Archive",Planeta Rtr Ⓢ
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="Dead-Archive",Radio Hit Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="Dead-Archive",Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMhSvax.png" group-title="Dead-Archive",Rtlbe
@@ -15995,6 +16035,10 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtfsNdd.png" group-title="Dead-Archive",Tv 2020 Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" group-title="Dead-Archive",Prima
+https://sktv.mxnticek.eu/new/stream.php?ch=Prima
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" group-title="Dead-Archive",Prima Cool
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaCool
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png" group-title="Dead-Archive",Šlágr Originál Ⓢ
 https://stream-6.mazana.tv/slagr.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" group-title="Dead-Archive",Šlágr Muzika Ⓢ
@@ -16027,10 +16071,6 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/640px-KVF_logo_2019.svg.png" group-title="Dead-Archive",Kvf Sjónvarp
 https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MoukyGs.png" group-title="Dead-Archive",Tv5 Finland
-https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4giVyxb.png" group-title="Dead-Archive",Kutonen
-https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sR8nA8w.png" group-title="Dead-Archive",Tapahtumatv Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" group-title="Dead-Archive",Rustavi 2
@@ -16109,8 +16149,12 @@ https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" group-title="Dead-Archive",Tg4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" group-title="Dead-Archive",Fm104
+https://wg.cdn.tibus.net/fm104MP3128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" group-title="Dead-Archive",Radio Nova
 https://stream.audioxi.com/NOVA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" group-title="Dead-Archive",Dublin'S Q102
+https://wg.cdn.tibus.net/q102MP3128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png" group-title="Dead-Archive",כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="Dead-Archive",ערוץ 14
@@ -16125,18 +16169,12 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khPweok.png" group-title="Dead-Archive",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Dead-Archive",Rai News 24 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Dead-Archive",Donna Tv Ⓢ
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Dead-Archive",Alma Tv
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Dead-Archive",Bejoykids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NzDeCIx.png" group-title="Dead-Archive",Radio Tv Serie A Con Rds
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Dead-Archive",Sportitalia Solocalcio
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IzVSQI.png" group-title="Dead-Archive",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Dead-Archive",Abc Tv
@@ -16175,8 +16213,6 @@ https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
 https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2edmxYF.png" group-title="Dead-Archive",Idea Plus
 https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YBXkY4w.png" group-title="Dead-Archive",Italia 7
-https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuuKXGv.png" group-title="Dead-Archive",Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgj79J3.png" group-title="Dead-Archive",L'Altro Corriere Tv
@@ -16207,8 +16243,6 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8RKY3Du.png" group-title="Dead-Archive",Quarto Canale Flegreo
 http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="Dead-Archive",Radio 3M Inblu
-https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Dead-Archive",Radio Roma
 https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Dead-Archive",Radio Roma Television
@@ -16643,6 +16677,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="Dead-Archive",Red Tv
 https://edge8.pink.rs/redtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png" group-title="Dead-Archive",Joj Šport
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="Dead-Archive",Tv Slo 1
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="Dead-Archive",Tv Slo 2
@@ -17197,6 +17233,8 @@ http://198.195.239.50:8095/Discovery/index.m3u8
 http://198.195.239.50:8095/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Discovery Kids Hd
 http://198.195.239.50:8095/DiscoveryKids/index.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Lig
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Sky Sport Laliga
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Dsports 1
@@ -17207,12 +17245,16 @@ http://45.173.74.2:2010/play/a08a/index.m3u8
 http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Sky Sport Laliga
 http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Tnt Sports Premium
+http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Canal + Sport
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",%C%0%2%7! 4 Hd
 http://46.149.191.217:9010/play/a019
 #EXTINF:-1 group-title="Dead-Archive",M4 Sport
 http://46.149.191.217:9010/play/a017
+#EXTINF:-1 group-title="Dead-Archive",Telefe
+http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Mtr Sports1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Tudn
@@ -17571,8 +17613,6 @@ https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Dead-Archive",209Cooking 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tz0japl7j0xaq8e/88.0.jpg?raw=1" group-title="Dead-Archive",Radio Foorti (880)
-https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/e9sdpnq3nme5ofp/88.4.jpg?raw=1" group-title="Dead-Archive",Radio Amar (884)
 http://118.179.215.45:8000/;stream/1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/tvwkt5ftew2l6vi/91.2.png?raw=1" group-title="Dead-Archive",Radio Dhoni (912)*
@@ -18835,6 +18875,8 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 http://188.35.9.26:14050/udp/238.0.14.3:69000
 #EXTINF:-1 group-title="Dead-Archive",Рен Тв International
 https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Стрк Hd
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/08/hernettv.jpg?x91288" group-title="Dead-Archive",Hernet Iptv [Bd]
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Dead-Archive",Khusboo Bangla [In]
@@ -19169,8 +19211,6 @@ https://radioindia.net/radio/sc-bb/icecast.audio
 http://stream.zeno.fm/1k0y9f0cm0quv
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Bollywood Radio And Beyond
 http://185.80.220.12:8046/stream
-#EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Dhaka Fm
-http://118.179.219.244:8000/
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Dhaka Fm (904)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://s8.gifyu.com/images/IPTV.png" group-title="Dead-Archive",Non Stop Hindi Radio
@@ -21965,8 +22005,6 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="Dead-Archive",Dbc News (480P)
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gXsddRK.png" group-title="Dead-Archive",Duronto Tv (720P)
-https://trs1.aynaott.com/duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhxRefQ.png" group-title="Dead-Archive",My Tv (576P)
 https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Dead-Archive",National Geographic Hd (1080P)
@@ -22283,10 +22321,6 @@ https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png" group-title="Dead-Archive",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" group-title="Dead-Archive",Discovery Bangla
-http://103.180.212.191:3500/live/573.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" group-title="Dead-Archive",Discovery Hindi
-http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Dead-Archive",Amberit
 http://www.clubbd.com/webplayer/webplayer/34.m3u8
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="Dead-Archive",Btv
@@ -22295,12 +22329,24 @@ http://www.clubbd.com/webplayer/webplayer/61.m3u8
 http://www.clubbd.com/webplayer/webplayer/63.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/IMG_20260612_084720.jpg" group-title="Dead-Archive","Uneit8 Sports 2
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="Dead-Archive",Star Jalsa
+https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Zee%20Bangla%20hd.jpg" group-title="Dead-Archive",Zee Bangla
 https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Zee%20Bangla%20Cinema%20.png" group-title="Dead-Archive",Zee Bangla Chinena
 https://live.shamim-iptv.workers.dev/ZEEBANGLACINEMA.m3u88
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sun-bangla-hd-in.png" group-title="Dead-Archive",Sun Bangla
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png" group-title="Dead-Archive",Colors Bangla
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Dead-Archive",Colours Bangla Chinema
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Dead-Archive",Sony Aath
+https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="Dead-Archive",Sangeet Bangla
+https://live.shamim-iptv.workers.dev/sangeetbangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Akash%20Aath.png" group-title="Dead-Archive",আকাশ ৮
+https://live.shamim-iptv.workers.dev/akash8.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="Dead-Archive",Channel 1
 https://live.shamim-iptv.workers.dev/channel1.m3u8
 #EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257png" group-title="Dead-Archive",Me Tv
@@ -22321,14 +22367,20 @@ https://live.shamim-iptv.workers.dev/INDEPENDENTTV.m3u8
 https://live.shamim-iptv.workers.dev/ATNNEWS.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Banglavision.png" group-title="Dead-Archive",Banglavison
 https://live.shamim-iptv.workers.dev/BANGLAVISION.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/maasranga-hd-bd.png" group-title="Dead-Archive",Maasranga
+https://live.shamim-iptv.workers.dev/MAASRANGATVHD.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Dead-Archive",Deepto Tv
 https://live.shamim-iptv.workers.dev/DEEPTOTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/ATN%20Bangla.png" group-title="Dead-Archive",Atn Bangla
+https://live.shamim-iptv.workers.dev/ATNBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%20I.png" group-title="Dead-Archive",Channel I
 https://live.shamim-iptv.workers.dev/CHANNELIHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/NTV.png" group-title="Dead-Archive",Ntv
 https://live.shamim-iptv.workers.dev/NTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/News%2024.png" group-title="Dead-Archive",News 24
 https://live.shamim-iptv.workers.dev/NEWS24HD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHuUgo3GDDj8V6ikZ40K1oT5tzf859xNJBtfszJGoqj-Daadk0vExt_TY&s=10" group-title="Dead-Archive",Sa Tv
+https://live.shamim-iptv.workers.dev/SATVHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/340?cb=20260202200847" group-title="Dead-Archive",Star News
 https://live.shamim-iptv.workers.dev/starnews.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/7.png" group-title="Dead-Archive",Dbc News
@@ -22337,18 +22389,34 @@ https://live.shamim-iptv.workers.dev/DBCNEWSHD.m3u8
 https://live.shamim-iptv.workers.dev/CHANNEL9HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/My%20TV.svg.png" group-title="Dead-Archive",My Tv
 https://live.shamim-iptv.workers.dev/MYTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/RTV.png" group-title="Dead-Archive",R Tv
+https://live.shamim-iptv.workers.dev/RTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Desh%20TV.png" group-title="Dead-Archive",Desh Tv
 https://live.shamim-iptv.workers.dev/DESHTV.m3u8
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" group-title="Dead-Archive",Movie Bangla
 https://live.shamim-iptv.workers.dev/movie banglag.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="Dead-Archive",Sangeet Bangla
 http://www.clubbd.com:80/webplayer/webplayer/64.m3u
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Dead-Archive",Asian Tv
+https://live.shamim-iptv.workers.dev/ASIANTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Dead-Archive",Mohona Tv
 https://live.shamim-iptv.workers.dev/MOHONATVHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Bijoy%20TV.png" group-title="Dead-Archive",Bijoy Tv
+https://live.shamim-iptv.workers.dev/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Dead-Archive",Atn Music
 https://live.shamim-iptv.workers.dev/atnmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Dead-Archive",Ekushey Tv
 https://live.shamim-iptv.workers.dev/ekusheytv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Logo_of_Ananda_TV.svg.png" group-title="Dead-Archive",Ananda Tv
+https://live.shamim-iptv.workers.dev/anandatv.m3u8
+#EXTINF:-1 group-title="Dead-Archive",B4U Music
+https://live.shamim-iptv.workers.dev/b4umusic.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Zoom
+https://live.shamim-iptv.workers.dev/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Dead-Archive",Khushboo
+https://live.shamim-iptv.workers.dev/khushboo.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Dead-Archive",Music India
+https://live.shamim-iptv.workers.dev/musicindia.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903" group-title="Dead-Archive",Shemaroo Tv
 https://live.shamim-iptv.workers.dev/shemarootv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Dead-Archive",Zee Action
@@ -22361,8 +22429,18 @@ https://live.shamim-iptv.workers.dev/096goldminesmovies.m3u8
 https://live.shamim-iptv.workers.dev/scifi.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="Dead-Archive",Mnxhd
 https://live.shamim-iptv.workers.dev/mnxhd.m3u8
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/TxPUulKGQh.jpg" group-title="Dead-Archive",Motu Patlu
+https://live.shamim-iptv.workers.dev/motupatlu.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="Dead-Archive",Gopal Bhar
+https://live.shamim-iptv.workers.dev/gopalbhar.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Dead-Archive",0 Tom And Jerry 2
+https://live.shamim-iptv.workers.dev/0tomandjerry2.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="Dead-Archive",0 Toon Goggles
 https://live.shamim-iptv.workers.dev/0toongoggles.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Dead-Archive",0 Doraemon
+https://live.shamim-iptv.workers.dev/0doraemon.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="Dead-Archive",Music Mastii
+https://live.shamim-iptv.workers.dev/musicmastii.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Star Plus
 https://live.shamim-iptv.workers.dev/STARPLUSHD.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Movies Now
@@ -22371,6 +22449,8 @@ https://live.shamim-iptv.workers.dev/MOVIESNOWHD.m3u8
 https://live.shamim-iptv.workers.dev/DISCOVERYKIDS.m3u8
 #EXTINF:-1 group-title="Dead-Archive",Duronto Tv
 https://live.shamim-iptv.workers.dev/DURONTOTVHD.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Discovery
+https://live.shamim-iptv.workers.dev/DISCOVERYHD.m3u8
 #EXTINF:-1 group-title="Dead-Archive",National Geography
 https://live.shamim-iptv.workers.dev/NATGEOHD.m3u8
 #EXTINF:-1 group-title="Dead-Archive",9Xm
@@ -23009,18 +23089,28 @@ http://10.189.188.190:8080/7654321/1234567/307
 http://10.189.188.190:8080/7654321/1234567/308
 #EXTINF:-1 group-title="Dead-Archive",Saudi Sunnah
 http://10.189.188.190:8080/7654321/1234567/309
+#EXTINF:-1 tvg-logo="tvg-logo=https://raw.githubusercontent.com/shamimpipon/ROAR/main/Ptv.jpg" group-title="Dead-Archive",Ptv Sports
+https://live.shamim-iptv.workers.dev/ptvsportshd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/ptv%20sports.png" group-title="Dead-Archive",A Sports
 https://live.shamim-iptv.workers.dev/ASPORTSHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMgSxc0P/1000113679.png" group-title="Dead-Archive",Euro Tv
 https://live.shamim-iptv.workers.dev/EUROSPORTSHD.m3u8
+#EXTINF:-1 group-title="Dead-Archive",Willow Sports
+https://live.shamim-iptv.workers.dev/WILLOWCRICKETHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-1-hd-in.png" group-title="Dead-Archive",Star Sports 1 Jadoo
 https://live.shamim-iptv.workers.dev/STARSPORTS1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="Dead-Archive",Star Sports Select 2 Hd
 https://live.shamim-iptv.workers.dev/STARSPORTS2HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-3-hd-in.png" group-title="Dead-Archive",Star Sports 3
 https://live.shamim-iptv.workers.dev/STARSPORTS3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-1-hd-in.png" group-title="Dead-Archive",Sony Sports 1Hd
+https://live.shamim-iptv.workers.dev/SONYTEN1HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Dead-Archive",Sony Sports 2 Hd
+https://live.shamim-iptv.workers.dev/SONYTEN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-3-hd-in.png" group-title="Dead-Archive",Sony Sports 3 Hd
 https://live.shamim-iptv.workers.dev/SONYTE3HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Dead-Archive",Sony Sports 5 Hd
+https://live.shamim-iptv.workers.dev/SONYTEN5HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="Dead-Archive",Star Sports Select 1 Hd
 https://live.shamim-iptv.workers.dev/STARSPORTSSLIHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Uneit8%20sports%201.webp" group-title="Dead-Archive",Uneit8 Sports1
