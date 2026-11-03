@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-11-01 21:47:47 UTC",
-    "total_live": 12412,
-    "total_bd_india": 689,
-    "total_dead": 16276,
+    "last_updated": "2026-11-03 00:35:25 UTC",
+    "total_live": 12406,
+    "total_bd_india": 687,
+    "total_dead": 16317,
     "categories": {
-        "Entertainment": 4441,
-        "Other": 4648,
-        "Sports": 361,
-        "News": 1500,
+        "Entertainment": 4435,
+        "Other": 4667,
+        "Sports": 380,
+        "News": 1503,
         "Kids": 144,
-        "Movies": 219,
-        "Music": 107
+        "Movies": 221,
+        "Music": 108
     }
 }
